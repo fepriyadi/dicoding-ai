@@ -1,0 +1,3447 @@
+    1  pod --verbose lib lint
+    2  pod --verbose lib lint
+    3  pod --verbose lib lint
+    4  pod --verbose lib lint
+    5  pod --verbose lib lint
+    6  pod --verbose lib lint
+    7  pod --verbose lib lint
+    8  pod --verbose lib lint
+    9  pod --verbose lib lint
+   10  pod --verbose lib lint
+   11  pod --verbose lib lint
+   12  pod --verbose lib lint
+   13  pod --verbose lib lint
+   14  pod --verbose lib lint
+   15  pod --verbose lib lint
+   16  pod --verbose lib lint
+   17  pod --verbose lib lint
+   18  unzip lib.zip
+   19  unzip -o -q lib.zip
+   20  unzip -d MNCAnalytics/lib lib.zip
+   21  unzip -o -q lib.zip
+   22  pod --verbose lib lint
+   23  git add . && commit -m "1.2.4 change j2objc url"
+   24  git add . && git commit -m "1.2.4 change j2objc url"
+   25  git push origin main
+   26  git tag '1.2.4'
+   27  git push --tags
+   28  pod trunk push MNCAnalytics.podspec --verbose
+   29  pod search MNCAnalytics
+   30  pod trunk delete MNCAnalytics 1.2.4
+   31  pod trunk delete MNCAnalytics 1.2.4
+   32  pod search MNCAnalytics
+   33  pod repo update
+   34  pod search MNCAnalytics
+   35  pod trunk delete MNCAnalytics 1.2.4
+   36  pod search MNCAnalytics
+   37  pod trunk push
+   38  pod search MNCAnalytics
+   39  pod trunk delete MNCAnalytics 1.2.4
+   40  pod search MNCAnalytics
+   41  pod search MNCAnalytics
+   42  pod trunk push MNCAnalytics.podspec --verbose
+   43  pod trunk push MNCAnalytics.podspec --verbose
+   44  git add . && git commit -m "1.2.5 change j2objc url"
+   45  git tag '1.2.5'
+   46  git push origin main
+   47  git push --tags
+   48  pod trunk push MNCAnalytics.podspec --verbose
+   49  pod trunk delete MNCAnalytics 1.2.5
+   50  git tag -d '1.2.5'
+   51  git tag -d '1.2.4'
+   52  git push --delete origin '1.2.4'
+   53  git push --delete origin '1.2.5'
+   54  pod trunk delete MNCAnalytics '1.2.5'
+   55  pod trunk delete MNCAnalytics '1.2.4'
+   56  pod trunk delete MNCAnalytics '1.2.4'
+   57  pod trunk delete MNCAnalytics '1.2.5'
+   58  git push --tags
+   59  pod repo add MNCAnalytics https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/source/ios/pod/MNCAnalytics.git
+   60  pod repo lint .
+   61  git tag '1.2.4'
+   62  git push --tags
+   63  git tag '1.2.4'
+   64  git tag -d '1.2.4'
+   65  git add . && git commit -m "1.2.4 change j2objc url"
+   66  git tag '1.2.4'
+   67  git push --tags
+   68  git push origin main
+   69  pod trunk push MNCAnalytics.podspec --verbose
+   70  pod trunk push MNCAnalytics.podspec --verbose
+   71  pod search MNCAnalytics
+   72  pod --verbose lib lint
+   73  git push origin main
+   74  git add . && git commit -m "1.2.4"
+   75  git push origin main
+   76  pod repo add MNCAnalytics https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/source/ios/pod/MNCAnalytics.git
+   77  pod spec lint
+   78  pod spec lint --verbose
+   79  cd ..
+   80  cd MNCAnalytics
+   81  pod --verbose lib lint
+   82  git add . && git commit -m "1.2.5: handle data failed to send cz network issue"
+   83  git push origin main
+   84  git tag '1.2.5'
+   85  git push --tags
+   86  pod trunk push MNCAnalytics.podspec --verbose
+   87  ssh mnca.staging.dps
+   88  ssh mnca.staging.dps
+   89  ssh mnca.staging.dps
+   90  ssh mnca.staging.dps
+   91  ssh mnca.staging.dps
+   92  cat .condif/id_rsa
+   93  cat .config/id_rsa
+   94  cat ~/.config/id_rsa
+   95  ls -la
+   96  cat ~/.ssh/config/id_rsa
+   97  cat .ssh/config/id_rsa
+   98  cat .ssh/config
+   99  cat ~/.zsh_history
+  100  ssh root@mnca.staging.dps
+  101  ssh mnca.staging.dps
+  102  ssh mnca.staging.dps
+  103  ssh mnca.dps
+  104  ssh root@mnca.dps
+  105  ssh root@mnca.stagin.dps
+  106  ssh root@mnca.staging.dps
+  107  ssh @10.10.16.198
+  108  ssh 10.10.16.198
+  109  ssh 10.10.16.195
+  110  ssh spark@10.10.16.195
+  111  ssh spark@10.10.16.195
+  112  ssh spark@10.10.16.198
+  113  ssh spark@10.10.16.198
+  114  ssh spark@10.10.16.198
+  115  ssh spark@10.10.16.198
+  116  cd .ssh
+  117  ls
+  118  cd config
+  119  cat config
+  120  cd ..
+  121  ssh mnca.dps
+  122  ssh mnca.staging.dps
+  123  ssh mnca.staging.dps
+  124  ssh mnca.staging.dps
+  125  ssh mnca.staging.dps
+  126  ssh mnca.staging.dps
+  127  cd /Users/fep/Desktop/fepriyadiharahap.com/html/public
+  128  cd ..
+  129  cd ..
+  130  firebase deploy
+  131  cd html
+  132  firebase deploy
+  133  firebase deploy
+  134  cd public
+  135  mkdir .well-known
+  136  ls -la
+  137  mv apple-app-site-association .well-known
+  138  cd .well-known
+  139  ls
+  140  cat apple-app-site-association
+  141  cd ,.
+  142  cd ..
+  143  firebase emulators:start
+  144  cd ..
+  145  firebase emulators:start
+  146  firebase deploy
+  147  cd ..
+  148  cd ..
+  149  cd /Users/fep/Desktop/fepriyadiharahap.com/html/public
+  150  cd ..
+  151  cd public
+  152  mv apple-app-site-association .well-known
+  153  cd .well-known
+  154  cat apple-app-site-association
+  155  firebase deploy
+  156  vim apple-app-site-association
+  157  cat apple-app-site-association
+  158  c d..
+  159  cd ..
+  160  cd ..
+  161  firebase deploy
+  162  cd public
+  163  cd ..
+  164  open public/.well-known/apple-app-site-association
+  165  firebase deploy
+  166  pod repo udpate
+  167  pod repo update
+  168  pod install --verbose
+  169  pod search MNCAnalytics
+  170  pod install --verbose
+  171  pod repo update MNCAnalytics
+  172  pod repo update
+  173  pod install --verbose
+  174  pod install --verbose
+  175  pod search MNCAnalytics
+  176  pod install --verbose
+  177  cd ..
+  178  cd MovieDBPodmcna
+  179  pod install --verbose
+  180  pod install --verbose
+  181  pod install --verbose
+  182  pod repo update
+  183  pod install --verbose
+  184  pod install --verbose
+  185  pod install --verbose
+  186  pod install --verbose
+  187  cd Pods
+  188  pod deintegrate
+  189  cd ..
+  190  pod repo update
+  191  pod install --verbose
+  192  pod install --verbose
+  193  pod install --verbose
+  194  pod install --verbose
+  195  pod install --verbose
+  196  pod install --verbose
+  197  pod install --verbose
+  198  pod install --verbose
+  199  pod install --verbose
+  200  pod install --verbose
+  201  rm -rf ~/Library/Caches/CocoaPods;
+  202  pod install --verbose
+  203  pod install --verbose
+  204  rm -rf ~/Library/Caches/CocoaPods;
+  205  rm -rf ~/Library/Caches/CocoaPods;
+  206  pod install --verbose
+  207  pod install --verbose
+  208  rm -rf ~/Library/Caches/CocoaPods;
+  209  pod install --verbose
+  210  rm -rf ~/Library/Caches/CocoaPods;
+  211  pod install --verbose
+  212  pod install --verbose
+  213  pod install --verbose
+  214  rm -rf ~/Library/Caches/CocoaPods;
+  215  pod install --verbose
+  216  pod install --verbose
+  217  pod install --verbose
+  218  rm -rf ~/Library/Caches/CocoaPods;
+  219  rm -rf ~/Library/Caches/CocoaPods;
+  220  pod install --verbose
+  221  pod repo update
+  222  sudo gem cocoapods -v
+  223  pod install --verbose
+  224  cd .
+  225  cd ..
+  226  cd MovieDBPodmcna
+  227  source
+  228  source ~/.cocoapods
+  229  pod install --verbose
+  230  rm -rf ~/Library/Caches/CocoaPods
+  231  pod install --verbose
+  232  pod update
+  233  pod update --verbose
+  234  pod cache clean; rm -rf Podfile.lock Pods; pod install
+  235  pod cache clean; rm -rf Podfile.lock Pods; pod install --verbose
+  236  pod install --verbose
+  237  pod cache clean; rm -rf Podfile.lock Pods
+  238  pod cache clean MNCAnalytics; rm -rf Podfile.lock Pods
+  239  pod update
+  240  rm -rf ~/Library/Caches/CocoaPods
+  241  pod repo update
+  242  pod intall --verbose
+  243  pod install --verbose
+  244  pod search MNCAnalytics
+  245  pod update MNCAnalytivs
+  246  pod update MNCAnalytics
+  247  pod search MNCAnalytics
+  248  pod search MNCAnalytics
+  249  pod search MNCAnalytics
+  250  pod search MNCAnalytics
+  251  pod install --verbose
+  252  pod update MNCAnalytics
+  253  pod cache clean MNCAnalytics
+  254  pod search MNCAnalytics
+  255  pod repo update
+  256  pod install --verbose
+  257  pod install --verbose
+  258  pod install --verbose
+  259  pod install --verbose
+  260  pod update MNCAnalytics
+  261  xcodebuild
+  262  pod update MNCAnalytics --verbose
+  263  pod update MNCAnalytics --verbose
+  264  cd /Users/fep/Documents/Aladin/IOS/aladinmall-ios
+  265  pod install
+  266  grep -r -m 1 "DEVELOPMENT_TEAM" .; grep -r -m 1 "PRODUCT_BUNDLE_IDENTIFIER" .
+  267  ssh mnca.dps
+  268  ssh mnca.dps
+  269  ssh mnca.dps
+  270  ssh mnca.dps
+  271  ssh mnca.dps
+  272  ssh mnca.dps
+  273  brew into
+  274  cd /Users/fep/dev/android/office/mnc/digital/analytics/mobile-sdk/ios
+  275  ./go convert
+  276  ./go convert
+  277  ./go convert
+  278  ./go convert
+  279  ./go convert
+  280  ./go convert
+  281  ./go convert
+  282  ./go convert
+  283  ./go convert
+  284  ./go convert
+  285  ./go convert
+  286  ./go convert
+  287  ./go convert
+  288  ./go convert
+  289  ./go convert
+  290  ./go convert
+  291  ./go convert
+  292  git init
+  293  git remote add origin https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/source/ios/j2objc/convert.git
+  294  git add .
+  295  git commit -m "Initial commit"
+  296  git push -u origin main
+  297  cd /Users/fep/Documents/Android Workspace/android-sdk-master
+  298  cd /Users/fep/Documents/Android\Workspace/android-sdk-master
+  299  cd /Users/fep/Documents/Android\ Workspace/android-sdk-master
+  300  git init
+  301  git remote add origin https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/source/android/sdk-master.git
+  302  git commit -m "Initial commit"
+  303  git push -u origin main
+  304  ls
+  305  git branch -M main
+  306  git push -uf origin main
+  307  git remote add origin https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/source/android/sdk-master.git
+  308  git commit -m "Initial commit"
+  309  git add .
+  310  git commit -m "Initial commit"
+  311  git push -u origin main
+  312  git push -uf origin main
+  313  git push origin main --force
+  314  git branch -M main
+  315  git push -uf origin main
+  316  git add .
+  317  git push -uf origin main
+  318  git pull
+  319  git pull main origin
+  320  git pull origin main
+  321  rm -rf .git
+  322  git init
+  323  git remote add origin https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/source/android/sdk-master.git
+  324  git add .
+  325  git commit -m "Initial commit"
+  326  git push -u origin main
+  327  rm -rf .git
+  328  git init
+  329  git remote add origin https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/source/android/maven-master.git
+  330  git add .
+  331  git commit -m "Initial commit"
+  332  git push -u origin main
+  333  cd /Users/fep/Documents/Android Workspace/publish
+  334  cd /Users/fep/Documents/Android\ Workspace/publish
+  335  git init
+  336  git remote add origin git@repo.mncinnovation.id:dac/video-analytics/sdk/mobile-sdk/publish/client-publish.git
+  337  git add .
+  338  git commit -m "Initial commit"
+  339  git push -u origin main
+  340  git push origin main
+  341  git push -u origin main
+  342  git remote --url
+  343  git remote -v
+  344  git push -u origin main
+  345  rm -rf .git
+  346  git init
+  347  git remote add https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/publish/client-publish.git
+  348  git remote add origin https://repo.mncinnovation.id/dac/video-analytics/sdk/mobile-sdk/publish/client-publish.git
+  349  git add .
+  350  git commit -m "Initial commit"
+  351  git push -u origin main
+  352  git add .
+  353  git commit -m "delete jre_emul"
+  354  git push -u origin main
+  355  git add .
+  356  git commit -m "example change"
+  357  git push -u origin main
+  358  git add .
+  359  git commit -m "change readme"
+  360  git push -u origin main
+  361  git add .
+  362  git commit -m "version 1.2.5 final doc"
+  363  git push -u origin main
+  364  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  365  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  366  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  367  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  368  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  369  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  370  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  371  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  372  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_30 -no-snapshot-load
+  373  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  374  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  375  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  376  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  377  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  378  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  379  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  380  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  381  cd /Users/fep/Documents/Aladin/IOS/aladinmall-ios
+  382  git checkout -b TAAM-2342
+  383  git checkout develop
+  384  pod install
+  385  cat <unsigned_file>.txt | openssl smime -sign -inkey aladinmall.key -signer aladinmall.id.pem -certfile intermediate.pem -noattr -nodetach -outform DER > apple-app-site-association
+  386  cd /Users/fep/dev/android/office/mnc/digital/analytics/mobile-sdk/ios
+  387  ./go convert
+  388  ipconfig getifaddr en0
+  389  cd /Users/fep/Documents/General/Marketing Campaign/Demo
+  390  cd /Users/fep/Documents/General/Marketing\ Campaign/Demo
+  391  cd ..
+  392  git status
+  393  git remote -help
+  394  git remote -get-url
+  395  git remote --get-url
+  396  git branch
+  397  git remote --get-url master
+  398  git remote -v
+  399  cd ~/.gitconfig
+  400  cat ~/.gitconfig
+  401  vim  ~/.gitconfig
+  402  pod install
+  403  pod install
+  404  pod install
+  405  pod install
+  406  pod update
+  407  sudo gem update cocoapods
+  408  pod --version
+  409  brew install cocoapods
+  410  pod install
+  411  pod install
+  412  pod update
+  413  git checkout -b universal-link
+  414  git status
+  415  git remote --get-url
+  416  git remote get-url
+  417  git remote get-url universal-link
+  418  git branch --show-current
+  419  git remote -v
+  420  git status
+  421  git --show-origin
+  422  git --config --show-origin
+  423  git -config --show-origin
+  424  git status
+  425  git checkout develop
+  426  pod install
+  427  pod install
+  428  pod install
+  429  pod install
+  430  checkout TAAM-2342
+  431  git checkout TAAM-2342
+  432  pod install
+  433  git checkout TAAM-2374
+  434  pod install
+  435  ls
+  436  git status
+  437  git stash Pods/Pods.xcodeproj/project.pbxproj
+  438  git status
+  439  git add Pods/Pods.xcodeproj/project.pbxproj
+  440  git status
+  441  git add Podfile.lock
+  442  git add Podfile
+  443  git add .DS_Store
+  444  git status
+  445  git stash
+  446  git status
+  447  git status
+  448  pod install
+  449  gi pull
+  450  git pull
+  451  git pull
+  452  git status
+  453  git add .
+  454  git stash
+  455  git pull
+  456  pod install
+  457  pod install
+  458  git checkout -b TAAM-2470
+  459  git checkout develop
+  460  pod install
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd ..
+  465  ls
+  466  cd Aladin
+  467  ls
+  468  cd AladinMall
+  469  ls
+  470  cd ..
+  471  xcrun simctl openurl booted https://ui-frontstore-stg.aladinmall.id/bentar/joger-dek-420335?variant=aa2bb0a4-55fd-11ee-bcf3-06f1e2c290b0&utm_source=portal&utm_medium=sindonews-lifestyle&utm_campaign=media-commerce
+  472  xcrun simctl openurl booted https://ui-frontstore-stg.aladinmall.id/bentar/joger-dek-420335?variant=aa2bb0a4-55fd-11ee-bcf3-06f1e2c290b0&utm_source=portal&utm_medium=sindonews-lifestyle&utm_campaign=media-commerce
+  473  xcrun simctl openurl booted https://ui-frontstore-stg.aladinmall.id/bentar/joger-dek-420335?variant=aa2bb0a4-55fd-11ee-bcf3-06f1e2c290b0&utm_source=portal&utm_medium=sindonews-lifestyle&utm_campaign=media-commerce
+  474  xcrun simctl openurl booted https://ui-frontstore-stg.aladinmall.id/bentar/joger-dek-420335
+  475  xcrun simctl openurl booted https://ui-frontstore-stg.aladinmall.id/bentar/joger-dek-420335
+  476  cd .ssh
+  477  ls
+  478  cat id_rsa
+  479  cat id_rsa_public
+  480  ls
+  481  cat id_rsa_public.pub
+  482  ssh -T git@bitbucket.org
+  483  vim config
+  484  vim config
+  485  cat id_rsa
+  486  ls
+  487  ssh keygen -t ed25519 -b 4096 -C "fepriyadi.harahap@mncgroup.com" -f rsa_bitbucket
+  488  vim config
+  489  cat id_rsa_public.pub
+  490  ssh-add ~/id_rsa_public
+  491  ssh-add id_rsa_public
+  492  ssh -T git@bitbucket.org
+  493  ssh mnca.staging.dps
+  494  ssh mnca.staging.dps
+  495  ssh mnca.staging.dps
+  496  ssh mnca.staging.dps
+  497  ssh mnca.staging.dps
+  498  ssh mnca.staging.dps
+  499  ssh mnca.staging.dps
+  500  ssh mnca.staging.dps
+  501  ssh mnca.staging.dps
+  502  ssh mnca.staging.dps
+  503  ssh mnca.dps
+  504  ssh mnca.dps
+  505  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  506  adb connect 10.23.212.196
+  507  git checkout -b dac-integration
+  508  git checkout -b mnca-integration
+  509  git status
+  510  git -u push
+  511  git branch
+  512  git push -u origin mnca-integration
+  513  git push -u origin mnca-integration
+  514  cd ..
+  515  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  516  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  517  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  518  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  519  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  520  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  521  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  522  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  523  git clone https://fepriyadi@bitbucket.org/rctiplus/rctiplus-android.git
+  524  ls
+  525  ls
+  526  cd rctiplus-android
+  527  git checkout development
+  528  git checkout development
+  529  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  530  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  531  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  532  ssh mnca.dps
+  533  cd ~/Library
+  534  ls
+  535  cd Android
+  536  ls
+  537  cd sdk
+  538  ls
+  539  cd platform-tools
+  540  ls
+  541  ./adb connect 10.23.212.196
+  542  ifconfig
+  543  ipconfig
+  544  ipconfig getinfaddr
+  545  ipconfig getinfaddr ent0
+  546  ifconfig getinfaddr ent0
+  547  getinfaddr ent0
+  548  ./adb connect 10.23.212.196
+  549  ./adb connect 10.23.212.196
+  550  ssh mnca.staging.dps
+  551  ssh mnca.staging.dps
+  552  ./adb connect 10.23.212.173
+  553  ssh mnca.dps
+  554  ssh mnca.dps
+  555  ssh mnca.dps
+  556  ./adb connect 10.23.212.173
+  557  ssh mnca.dps
+  558  ssh mnca.staging.dps
+  559  ssh mnca.staging.dps
+  560  ssh mnca.staging.dps
+  561  ssh mnca.staging.dps
+  562  ssh mnca.staging.dps
+  563  ssh mnca.staging.dps
+  564  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  565  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  566  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  567  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  568  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  569  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  570  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  571  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  572  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  573  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  574  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  575  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  576  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  577  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  578  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  579  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  580  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  581  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  582  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  583  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  584  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  585  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  586  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  587  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  588  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  589  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  590  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  591  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  592  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  593  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  594  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  595  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  596  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  597  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+  598  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  599  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  600  ssh mnca.staging.dps
+  601  ssh mnca.dps
+  602  ssh mnca.dps
+  603  ssh dac@172.17.1.70
+  604  ssh dac@110.239.67.83 -p 2222
+  605  ssh dac@110.239.67.83 -p 2222
+  606  ssh mnca.staging.dps
+  607  ssh mnca.dps
+  608  ssh mnca.dps
+  609  ssh mnca.dps
+  610  ssh mnca.dps
+  611  ssh mnca.dps
+  612  ssh mnca.dps
+  613  ssh mnca.dps
+  614  ssh mnca.dps
+  615  ssh mnca.dps
+  616  ssh mnca.staging.dps
+  617  ssh mnca.staging.dps
+  618  ssh mnca.staging.dps
+  619  ssh mnca.dps
+  620  ssh mnca.staging.dps
+  621  ssh mnca.dps
+  622  ssh mnca.dps
+  623  ssh mnca.dps
+  624  ssh mnca.dps
+  625  ssh mnca.dps
+  626  ssh mnca.dps
+  627  ssh mnca.dps
+  628  ssh mnca.dps
+  629  ssh mnca.dps
+  630  ssh mnca.dps
+  631  ssh mnca.dps
+  632  ssh mnca.staging.dps
+  633  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  634  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  635  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  636  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  637  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  638  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  639  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  640  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  641  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  642  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  643  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  644  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  645  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  646  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  647  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  648  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  649  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  650  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  651  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  652  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  653  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  654  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  655  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  656  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  657  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  658  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  659  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  660  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  661  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  662  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  663  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  664  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  665  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  666  ls
+  667  cd..
+  668  ls
+  669  cd ..
+  670  ls
+  671  cd ..
+  672  ls
+  673  cd rctiplus-androidtv
+  674  ls
+  675  cd ..
+  676  cd rctiplus-androidtv
+  677  git checkout development
+  678  git checkout dac-integration
+  679  git checkout mnca-integration
+  680  cd ..
+  681  cd rctiplus-android
+  682  git checkout mnca-integration
+  683  git checkout -b mnca-integration
+  684  cd ~/Library
+  685  ls
+  686  cd Java
+  687  ls
+  688  cd JavaVirtualMachines
+  689  ls
+  690  cd liberica-1.8.0_345
+  691  ls
+  692  cd lib/
+  693  ls
+  694  cd ..
+  695  cd bin
+  696  ls
+  697  jstat
+  698  cd servertool
+  699  ls
+  700  cdc.
+  701  cd ..
+  702  ls
+  703  cd include
+  704  ls
+  705  cd ..
+  706  ls
+  707  cd jre
+  708  ls
+  709  cd bin
+  710  ls
+  711  cd java
+  712  cd ..
+  713  ls
+  714  cd lib
+  715  ls
+  716  cd ..
+  717  cd ..
+  718  cd ..
+  719  ls
+  720  cd corretto-19.0.2
+  721  ls
+  722  cd Contents
+  723  ls
+  724  cd Home
+  725  ls
+  726  cd include
+  727  ls
+  728  cd ..
+  729  cd bin
+  730  ls
+  731  cd Library
+  732  cd Android/
+  733  ls
+  734  ls
+  735  cd sdk
+  736  ls
+  737  cd platform-tools
+  738  ls
+  739  abd connect 10.3.188.181
+  740  adb connect 10.3.188.181
+  741  adbconnect 10.3.188.181
+  742  adb 10.3.188.181
+  743  ls
+  744  abd
+  745  adb
+  746  adb connect 10.3.188.181
+  747  cd adb
+  748  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  749  ls 
+  750  cd .zsh
+  751  cd zsh
+  752  cd home
+  753  ls
+  754  cd ..
+  755  cd ..
+  756  cd ..
+  757  cd..
+  758  ls
+  759  cd home
+  760  ls
+  761  ls
+  762  cd ..
+  763  cd usr
+  764  ls
+  765  cd ..
+  766  cd etc
+  767  ls
+  768  cd ..
+  769  cd ..
+  770  ls -a
+  771  cd Users
+  772  ls
+  773  cd fep
+  774  ls
+  775  ls -la
+  776  export .zsh_history
+  777  cat .zsh_history
+  778  ssh mnca.dps
+  779  ssh mnca.dps
+  780  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  781  cd Library/Android/
+  782  ls
+  783  cd sdk/platform-tools
+  784  ~/adb connect 10.3.188.99
+  785  ~/.adb connect 10.3.188.99
+  786  ~adb connect 10.3.188.99
+  787  /.adb connect 10.3.188.99
+  788  ./adb connect 10.3.188.99
+  789  ./adb connect 10.3.188.99
+  790  ./adb connect 10.3.188.99
+  791  ./adb connect 10.3.188.99
+  792  ./adb connect 10.3.188.99
+  793  /Users/fep/Library/Android/sdk/emulator/emulator -avd Android_TV_720p_API_30 -no-snapshot-load
+  794  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  795  ssh mnca.staging.dps
+  796  ssh mnca.dps
+  797  ./adb connect 10.3.188.181
+  798  ./adb connect 10.3.188.181
+  799  ./adb connect 10.3.188.181
+  800  ./adb connect 10.3.188.181
+  801  ssh mnca.dps
+  802  ./adb connect 10.3.188.181
+  803  ./adb connect 10.3.189.1
+  804  ./adb connect 10.3.189.62
+  805  eth0 getifaddr
+  806  getifaddr eth)
+  807  getifaddr eth0
+  808  ipconfig getifaddr en0
+  809  ipconfig getifaddr en1
+  810  ipconfig getifaddr
+  811  ipconfig getifaddr en1
+  812  ipconfig getifaddr ent1
+  813  ipconfig getifaddr en1
+  814  ipconfig getifaddr en1
+  815  ipconfig getifaddr en0
+  816  ipconfig getifaddr en0
+  817  curl ifconfig.me
+  818  ipconfig getifaddr en0
+  819  ipconfig getifaddr en0
+  820  ./adb connect 10.3.189.62
+  821  ./adb connect 10.3.189.62
+  822  ./adb forward tcp:7612 tcp:7612
+  823  ./adb forward tcp:7612
+  824  ./adb tcip:7612
+  825  ./adb tcpip:7612
+  826  ./adb tcpip:7612
+  827  ./adb connect 10.3.189.62
+  828  ./adb forward tcp:5555 tcp:5555
+  829  ./adb forward tcp:5555 tcp:5555
+  830  ./adb connect 10.3.189.62:5555
+  831  ./adb connect 10.3.188.184
+  832  ./adb pull "/data/anr/traces.txt"
+  833  cd ~/data/anr
+  834  cd data/anr
+  835  cd ./adb
+  836  ./adb devices
+  837  ./adb -s 10.3.188.184:5555 pull "/data/anr/traces.txt"
+  838  ssh mnca.dps
+  839  ssh mnca.dps
+  840  ssh mnca.dps
+  841  ssh mnca.dps
+  842  ssh mnca.staging.dps
+  843  ./gradlew clean build
+  844  ./gradlew -stop
+  845  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  846  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  847  ./adb connect 10.3.188.184
+  848  ./Library/Android/platformtools/adb connect 10.3.188.184
+  849  ~./Library/Android/platformtools/adb connect 10.3.188.184
+  850  .~/Library/Android/platformtools/adb connect 10.3.188.184
+  851  cd ~/Library/Android/sdk/platform-tools/adb connect 10.3.188.157
+  852  cd ~/Library/Android/sdk/platform-tools/.adb connect 10.3.188.157
+  853  cd ~/Library/Android/sdk/platform-tools./adb connect 10.3.188.157
+  854   ~/Library/Android/sdk/platform-tools./adb connect 10.3.188.157
+  855   ~/Library/Android/sdk/platform-tools/adb connect 10.3.188.157
+  856   ~/Library/Android/sdk/platform-tools/adb connect 10.3.188.157
+  857   ~/Library/Android/sdk/platform-tools/adb connect 10.3.189.44
+  858  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  859  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  860  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  861  ssh dac@110.239.67.83 -p 2222
+  862  ssh dac@110.239.67.83 -p 2222
+  863  ./gradlew app:publishReleasePublicationToSonatypeRepository
+  864  mnca.staging.dps
+  865  ssh mnca.staging.dps
+  866  cd /Users/fep/Documents/iOSWorkspace/MovieDBPodmcna
+  867  ssh mnca.staging.dps
+  868  cd /Users/fep/Documents/iOSWorkspace/MovieDBPodmcna
+  869  pod update MNCAnalytics
+  870  pod update MNCAnalytics --verbose
+  871  ssh dac@110.239.67.83 -p 2222
+  872  ssh dac@110.239.67.83 -p 2222
+  873  cd /Users/fep/Documents/iOSWorkspace/MovieDBPodmcna/MovieDB
+  874  pod update MNCAnalytics --versbos
+  875  pod update MNCAnalytics --verbose
+  876  cd /Users/fep/dev/android/office/mnc/digital/analytics/mobile-sdk/ios
+  877  ./go convert
+  878  cd /Users/fep/Documents/SDK/PODS/MNCAnalytics
+  879  git status
+  880  git add . && git commit -m "Release 1.2.8"
+  881  git tag '1.2.8'
+  882  git push --tags
+  883  git push origin main 
+  884  git spec lint
+  885  pod spec lint
+  886  pod spec lint --verbose
+  887  pod trunk push MNCAnalytics.podspec
+  888  pod trunk push MNCAnalytics.podspec
+  889  pod trunk push MNCAnalytics.podspec
+  890  pod trunk push MNCAnalytics.podspec --verbose
+  891  pod trunk push MNCAnalytics.podspec --verbose
+  892  pod spec lint
+  893  pod spec lint --verbose
+  894  pod spec lint --verbose
+  895  pod spec lint --verbose
+  896  pod spec lint --verbose
+  897  git tag -d 1.2.8
+  898  git push --delete origin 1.2.8
+  899  git add . && git commit -m "fix release 1.2.8"
+  900  git tag '1.2.8'
+  901  git push --tags
+  902  git push origin main
+  903  pod spec lint --verbose
+  904  pod trunk push MNCAnalytics.podspec --verbose
+  905  pod trunk register  '<Your_Name>' --description='macbook pro' --verbose
+  906  pod trunk me
+  907  pod trunk register fepriyadi.harahap@mncgroup.com fepriyadihrp  --description='macbook pro' --verbose
+  908  pod trunk me
+  909  pod search MNCAnalytics
+  910  pod trunk --help
+  911  pod info MNCAnalytics
+  912  pod search MNCAnalytics
+  913  pod update
+  914  gem install cocoapods
+  915  sudo gem install cocoapods
+  916  pod search MNCAnalytics
+  917  pod search MNCAnalytics 1.2.5
+  918  pod search 'MNCAnalytics'
+  919  pod search MNCAnalytics
+  920  pod trunk push MNCAnalytics.podspec --verbose
+  921  pod trunk register fepriyadihrp@gmail.com fepriyadihrp  --description='macbook pro' --verbose
+  922  pod trunk me
+  923  pod trunk register fepriyadihrp@gmail.com fep  --description='macbook pro' --verbose
+  924  pod trunk me
+  925  pod search MNCAnalytics
+  926  pod trunk push MNCAnalytics.podspec --verbose
+  927  git tag -d 1.2.8
+  928  git push --delete origin 1.2.8
+  929  git add . && git commit -m "fix release 1.2.8"
+  930  git tag '1.2.8'
+  931  git push --tags
+  932  git push origin main 
+  933  pod spec lint
+  934  pod trunk push MNCAnalytics.podspec --verbose
+  935  pod trunk delete MNC
+  936  pod trunk delete MNCAnalytics 1.2.8
+  937  pod trunk delete MNCAnalytics 1.2.8
+  938  pod trunk push MNCAnalytics.podspec --verbose
+  939  pod spec lint --verbose
+  940  ./adb connect 10.3.188.156
+  941  ./adb connect 10.3.188.156
+  942  ssh @mnca.dps
+  943  ssh mnca.dps
+  944  ssh mnca.dps
+  945  ssh mnca.dps
+  946  ssh mnca.dps
+  947  ssh mnca.dps
+  948  pod search MNCAnalytics
+  949  ssh mnca.dps
+  950  ssh mnca.dps
+  951  ssh mnca.dps
+  952  ssh mnca.dps
+  953  ssh mnca.dps
+  954  ssh mnca.dps
+  955  ssh mnca.staging.dps
+  956  ssh mnca.dps
+  957  ssh mnca.dps
+  958  ssh mnca.dps
+  959  ssh mnca.dps
+  960  ssh mnca.dps
+  961  ssh mnca.dps
+  962  ssh mnca.dps
+  963  ssh mnca.dps
+  964  ssh mnca.staging.dps
+  965  ssh mnca.staging.dps
+  966  defaults write com.apple.dt.Xcode DVTEnableCoreDevice enabled
+  967  ssh mnca.dps
+  968  ssh mnca.dps
+  969  ssh mnca.dps
+  970  ssh mnca.dps
+  971  ssh mnca.dps
+  972  ssh mnca.dps
+  973  ssh mnca.staging.dps
+  974  ssh mnca.dps
+  975  ssh mnca.dps
+  976  ssh mnca.dps
+  977  ssh mnca.dps
+  978  ssh mnca.dps
+  979  ssh mnca.dps
+  980  ssh mnca.dps
+  981  ssh mnca.dps
+  982  ssh mnca.dps
+  983  ssh mnca.dps
+  984  ssh mnca.dps
+  985  ssh mnca.dps
+  986  ssh mnca.dps
+  987  cd ..
+  988  ls
+  989  cd rctiplus-ios
+  990  ls
+  991  pod install
+  992  ssh mnca.dps
+  993  ssh mnca.dps
+  994  ls
+  995  cd Library/ls
+  996  cd Library
+  997  ls
+  998  cd Android
+  999  ls
+ 1000  vim .zshrc
+ 1001  cd /Library/Android
+ 1002  ls
+ 1003  cd Library/Android/sdk
+ 1004  ls
+ 1005  cd /Users/fepriyadi/Documents/RCTIPLUS/rctiplus-ios
+ 1006  pod install
+ 1007  pod install --verbose
+ 1008  brew help
+ 1009  pod install --verbose
+ 1010  rm -rf ~/Library/Developer/Xcode/DerivedData
+ 1011  pod install --verbose
+ 1012  rm -rf ~/Library/Developer/Xcode/DerivedData
+ 1013  ls -la
+ 1014  cd RCTITV
+ 1015  ls
+ 1016  ssh mnca.dps
+ 1017  flutter doctor -v
+ 1018  cd dev
+ 1019  ls
+ 1020  mv Users/fep/Downloads/flutter 
+ 1021  mv Users/fep/Downloads/flutter /
+ 1022  ls
+ 1023  mv Users/fep/Downloads/flutter Users/fep/dev/
+ 1024  mv Users/fepriyadi/Downloads/flutter Users/fepriyadi/dev/
+ 1025  mv Users/fepriyadi/Downloads/flutter Users/fepriyadi/dev
+ 1026  mv /Users/fepriyadi/Downloads/flutter /
+ 1027  ls
+ 1028  mv /Users/fepriyadi/Downloads/flutter /Users/fepriyadi/dev/
+ 1029  ls
+ 1030  vim ~/.zshenv
+ 1031  flutter doctor -v
+ 1032  flutter doctor --android-licenses
+ 1033  /dev/Android/ --install "cmdline-tools;latest"
+ 1034  dev/Android/ --install "cmdline-tools;latest"
+ 1035  dev/flutter/ --install "cmdline-tools;latest"
+ 1036  sudo dev/flutter/ --install "cmdline-tools;latest"
+ 1037  sudo /dev/flutter/ --install "cmdline-tools;latest"
+ 1038  --install "cmdline-tools;latest"
+ 1039  cd  dev/flutter
+ 1040  --install "cmdline-tools;latest"
+ 1041  flutter --install "cmdline-tools;latest"
+ 1042  vim ~/.zshenv
+ 1043  dart
+ 1044  dart -v
+ 1045  dart -version
+ 1046  dart --version
+ 1047  cd ~/Documents
+ 1048  cd iOSWorkspace
+ 1049  cd CapstoneDicoding
+ 1050  rm -rf ~/Library/Developer/Xcode/DerivedData
+ 1051  git init
+ 1052  git add ..
+ 1053  git add .
+ 1054  git commit -m "Initial commit"
+ 1055  git remote set-url origin https://github.com/fepriyadi/CapstoneMovieDB.git
+ 1056  git remote add origin https://github.com/fepriyadi/CapstoneMovieDB.git
+ 1057  git push -u origin main
+ 1058  git add .
+ 1059  git commit -m "yaml"
+ 1060  git push
+ 1061  cd ..
+ 1062  cd Core
+ 1063  git init
+ 1064  git add .
+ 1065  git commit -m "first commit"
+ 1066  git remote add origin https://github.com/fepriyadi/CapstoneCore.git
+ 1067  git push
+ 1068  git push -u origin main
+ 1069  cd ..
+ 1070  cd Movie
+ 1071  git init
+ 1072  git add .
+ 1073  git commit -m "first commit"
+ 1074  git remote add origin git remote add origin https://github.com/fepriyadi/CapstoneMovie.git
+ 1075  git remote add origin https://github.com/fepriyadi/CapstoneMovie.git
+ 1076  git push -u origin main
+ 1077  git tag 1.0.0
+ 1078  git push --tags
+ 1079  cd ..
+ 1080  cd  Core
+ 1081  git tag 1.0.0
+ 1082  git push --tags
+ 1083  cd ..
+ 1084  cd Mov
+ 1085  cd Movie
+ 1086  git add .
+ 1087  git status
+ 1088  git commit -m "change config"
+ 1089  git push origin main
+ 1090  cd ..
+ 1091  cd Core
+ 1092  git status
+ 1093  git add .
+ 1094  git status
+ 1095  git commit -m "change package.resolved"
+ 1096  git push origin main
+ 1097  git tag 1.0.1
+ 1098  git push --tags
+ 1099  cd ..
+ 1100  cd Movie
+ 1101  ls
+ 1102  git add .
+ 1103  git push origin main
+ 1104  git commit -m "update package"
+ 1105  git push origin main
+ 1106  git add .
+ 1107  git commit "changes"
+ 1108  git commit -m "changes"
+ 1109  git push origin main
+ 1110  git add .
+ 1111  git commit -m "changes"
+ 1112  git push origin main
+ 1113  git add .
+ 1114  git commit -m "changes"
+ 1115  git push origin main
+ 1116  git add .
+ 1117  git commit -m "changes"
+ 1118  git push origin main
+ 1119  git add .
+ 1120  git commit -m "changes"
+ 1121  git push origin main
+ 1122  git tag 1.0.2
+ 1123  git push --tags
+ 1124  git add .
+ 1125  git commit -m "changes"
+ 1126  git push origin main
+ 1127  cd ..
+ 1128  cd CapstoneDicoding-3/git add .
+ 1129  cd CapstoneDicoding-3/
+ 1130  git add /
+ 1131  git add .
+ 1132  git commit -m "change config: get from spm"
+ 1133  git push origin main
+ 1134  git add .
+ 1135  git commit -m "change config: get from spm"
+ 1136  git push origin main
+ 1137  pod init
+ 1138  pod install
+ 1139  workspace 'Modularization'
+ 1140  pod install
+ 1141  cd ..
+ 1142  cd Core
+ 1143  git add .
+ 1144  git commit -m "update"
+ 1145  git push origin main
+ 1146  pod deintegrate
+ 1147  cd ..
+ 1148  cd CapstoneDicoding-3/
+ 1149  pod deintegrate
+ 1150  pod clean
+ 1151  git add .
+ 1152  git rm --cached Module/Movie
+ 1153  git rm -f --cached Module/Movie
+ 1154  git add .
+ 1155  git submodule add https://github.com/fepriyadi/CapstoneMovieDB.git Module/Movie
+ 1156  git submodule add Module/Movie
+ 1157  git submodule add https://github.com/fepriyadi/CapstoneMovieDB.git Module/Movie
+ 1158  git add ..
+ 1159  git add .
+ 1160  git commit -m "update"
+ 1161  git push origin main
+ 1162  git add .
+ 1163  git status
+ 1164  git commit -m "changes"
+ 1165  git push origin main
+ 1166  git add .
+ 1167  git commit -m "changes"
+ 1168  git push origin main
+ 1169  cd Module/Movie
+ 1170  git add .
+ 1171  git commit -m "changes"
+ 1172  git push origin main
+ 1173  rm -rf .git
+ 1174  git status
+ 1175  cd ..
+ 1176  git status
+ 1177  git add .
+ 1178  git status
+ 1179  cd Module/Movie
+ 1180  git status
+ 1181  git remote -v
+ 1182  cd ..
+ 1183  git add .
+ 1184  git commit -m "changes"
+ 1185  git push origin main
+ 1186  cd Module/Movie
+ 1187  git add .
+ 1188  git rm --cached . -rf
+ 1189  git add .
+ 1190  git status
+ 1191  git add .
+ 1192  git commit -m "changes"
+ 1193  git push origin main
+ 1194  git add .
+ 1195  git commit -m "changes"
+ 1196  git push origin main
+ 1197  git add .
+ 1198  git commit -m "changes"
+ 1199  cd ..
+ 1200  git add .
+ 1201  git commit -m "changes"
+ 1202  git push origin main
+ 1203  ls
+ 1204  cd CapstoneApp
+ 1205  ls
+ 1206  cd CapstoneDicoding
+ 1207  cd ..
+ 1208  cd CapstoneDicoding.xcodeproj/ls
+ 1209  cd CapstoneDicoding.xcodeproj
+ 1210  ls
+ 1211  cd project.xcworkspace
+ 1212  ls
+ 1213  cd .. cd..
+ 1214  cd ..
+ 1215  c d..
+ 1216  cd ..
+ 1217  ls
+ 1218  brew install swiftlint
+ 1219  swiftlint 
+ 1220  swiftlint rules
+ 1221  swiftlint:disable colon
+ 1222  swiftlint disable colon
+ 1223  swiftlint:disable colon
+ 1224  pod init
+ 1225  pod install
+ 1226  git add .
+ 1227  git commit -m "create unit test"
+ 1228  git push origin main
+ 1229  cd ..
+ 1230  git add .
+ 1231  git status
+ 1232  git commit -m "new Mockup & add unit test"
+ 1233  git push origin main
+ 1234  ./gradlew build --warning-mode all
+ 1235  ./gradlew build --stacktrace
+ 1236  ./gradlew build --scan
+ 1237  ./gradlew build --debug
+ 1238  clear
+ 1239  ./gradlew build --stacktrace
+ 1240  ./gradlew build --info
+ 1241  ./gradlew build --stacktrace
+ 1242  ssh mnca.dps
+ 1243  git status
+ 1244  git init
+ 1245  git add .
+ 1246  git commit -m "first commit"
+ 1247  git remote add origin https://github.com/fepriyadi/CapstoneAndroid.git
+ 1248  git push -u origin main
+ 1249  git add .
+ 1250  git commit -m "add cicrleci config"
+ 1251  git push -u origin main
+ 1252  mv circleci .circleci
+ 1253  ls
+ 1254  ls -l
+ 1255  ls -la
+ 1256  cd .cirlceci
+ 1257  cd .circleci
+ 1258  ls
+ 1259  rm .circleci:config.yml
+ 1260  rm  .circleci/config.yml
+ 1261  ls -la
+ 1262  cd ..
+ 1263  ls -la
+ 1264  rm  .circleci:config.yml
+ 1265  ls -la
+ 1266  git add .
+ 1267  git commit -m "add cicrleci config"
+ 1268  git push -u origin main
+ 1269  java -version
+ 1270  cat ~/.bashrc
+ 1271  cd ..
+ 1272  ~/.bashrc
+ 1273  cat ~/.bashrc
+ 1274  cat ~/.zshrc
+ 1275  /usr/libexec/java_home -V
+ 1276  vim ~/.zshrc
+ 1277  /usr/libexec/java_home -V
+ 1278  source ~/.zshrc
+ 1279  java -version
+ 1280  git add .
+ 1281  git commit "change jdk"
+ 1282  git commit -m "change jdk"
+ 1283  git push -u origin main
+ 1284  source ~/.zshrc
+ 1285  java -version
+ 1286  ./gradlew androidDependencies
+ 1287  cd .circleci
+ 1288  ./gradlew androidDependencies
+ 1289  ~./gradlew androidDependencies
+ 1290  ~/gradlew androidDependencies
+ 1291  cd ~/usr/local/buildtools/java/jdk11
+ 1292  cd ..
+ 1293  cd ~/usr/local/buildtools/java/jdk11
+ 1294  cd usr/local/buildtools/java/jdk11
+ 1295  cd usr/local
+ 1296  cd ~/usr/local
+ 1297  cd ~/usr
+ 1298  cd ..
+ 1299  cd ~/usr/local
+ 1300  cd usr/local
+ 1301  ls
+ 1302  ls -lq
+ 1303  ls -la
+ 1304  cd openjdk11
+ 1305  javac -version
+ 1306  ./gradlew --version
+ 1307  ./gradlew clean
+ 1308  rm -rf ~/.gradle/caches/*
+ 1309  vim .circleci/config.yml
+ 1310  ./gradlew clean
+ 1311  vim .circleci/config.yml
+ 1312  cd ..
+ 1313  cd Library
+ 1314  cd Java/JavaVirtualMachines/
+ 1315  ls
+ 1316  cd ..
+ 1317  c d..
+ 1318  cd ..
+ 1319  cd /Users/fepriyadi/Library/Java/JavaVirtualMachines/corretto-17.0.12/Contents/Home
+ 1320  ls
+ 1321  ./gradlew --version
+ 1322  ./gradlew clean
+ 1323  rm -rf ~/.gradle/caches/*
+ 1324  ~/gradlew androidDependencies
+ 1325  ./gradlew androidDependencies
+ 1326  cd .gradle
+ 1327  ls
+ 1328  cd home
+ 1329  cd /home
+ 1330  cd ..
+ 1331  ls
+ 1332  cd Users/fepriyadi/
+ 1333  ls
+ 1334  ls -la
+ 1335  cd .gradle
+ 1336  ls
+ 1337  cd ..
+ 1338  ls -la
+ 1339  cd Library
+ 1340  ls -la
+ 1341  cd caches
+ 1342  ls
+ 1343  rm -r *
+ 1344  ls
+ 1345  ls -la
+ 1346  ./gradlew androidDependencies
+ 1347  ./gradle --versino
+ 1348  ./gradle --version
+ 1349  ~./gradle --version
+ 1350  ./gradlew --version
+ 1351  rm -rf ~/.gradle/wrapper/dists
+ 1352  rm -rf ~/.gradle/caches
+ 1353  ls -ld ~/.gradle/caches
+ 1354  ./gradlew build --debug
+ 1355  ./gradlew wrapper --gradle-version 8.7
+ 1356  chmod -R u+rw ~/.gradle/caches
+ 1357  ./gradlew wrapper --gradle-version 8.7
+ 1358  ./gradlew --version
+ 1359  ./gradlew wrapper --gradle-version 8.7
+ 1360  chmod -R u+rw ~/.gradle/caches
+ 1361  ./gradlew wrapper --gradle-version 8.7
+ 1362  rm -rf ~/.gradle/caches
+ 1363  ls -ld ~/.gradle
+ 1364  ls -ld ~/.gradle/caches
+ 1365  chmod -R u+rw ~/.gradle/caches
+ 1366  ./gradlew wrapper --gradle-version 8.7
+ 1367  ls -l ~/.gradle/caches/8.7/groovy-dsl/
+ 1368  ls -l ~/.gradle/caches/8.7/groovy-dsl
+ 1369  cd ~/.gradle/caches/8.7
+ 1370  ls -l
+ 1371  ls -la
+ 1372  ./gradlew --version
+ 1373  cd ..
+ 1374  ./gradlew --version
+ 1375  ls -la
+ 1376  vim .github/workflows/config.yml
+ 1377  edit .github/workflows/config.yml
+ 1378  open .github/workflows/config.yml
+ 1379  rm -rf .circleci
+ 1380  ls -la
+ 1381  open .github/workflows/config.yml
+ 1382  ./gradlew updateLintBaseline
+ 1383  ./gradlew clean
+ 1384  ./gradlew assembleRelease
+ 1385  ./gradlew assembleDebug
+ 1386  ./gradlew app:dependencies
+ 1387  ./gradlew assembleDebug
+ 1388  ./gradlew app:dependencies
+ 1389  macos-latest
+ 1390  ./gradlew app:dependencies
+ 1391  ./gradlew assembleDebug
+ 1392  ./gradlew assembleRelease
+ 1393  ./gradlew clean
+ 1394  ./gradlew assembleDebug
+ 1395  ./gradlew clean
+ 1396  ./gradlew assembleDebug
+ 1397  ./gradlew clean
+ 1398  ./gradlew assembleDebug
+ 1399  ./gradlew clean
+ 1400  ./gradlew assembleDebug
+ 1401  ./gradlew clean
+ 1402  ./gradlew assembleDebug
+ 1403  ./gradlew clean
+ 1404  ./gradlew assembleDebug
+ 1405  ./gradlew clean
+ 1406  ./gradlew assembleDebug
+ 1407  ./gradlew clean
+ 1408  ./gradlew assembleDebug
+ 1409  ./gradlew clean
+ 1410  ./gradlew assembleDebug
+ 1411  ./gradlew clean
+ 1412  ./gradlew assembleDebug
+ 1413  ./gradlew clean
+ 1414  ./gradlew assembleDebug
+ 1415  ./gradlew clean
+ 1416  ./gradlew assembleDebug
+ 1417  ./gradlew clean
+ 1418  ./gradlew assembleDebug
+ 1419  ./gradlew clean
+ 1420  ./gradlew assembleDebug
+ 1421  ./gradlew clean
+ 1422  ./gradlew assembleDebug
+ 1423  ./gradlew clean
+ 1424  ./gradlew assembleDebug
+ 1425  ./gradlew app:dependencies
+ 1426  ./gradlew clean
+ 1427  ./gradlew app:dependencies
+ 1428  ./gradlew clean
+ 1429  ./gradlew assembleDebug
+ 1430  ./gradlew clean
+ 1431  ./gradlew app:dependencies
+ 1432  cd ~/Library/Android/sdk/platform-tools
+ 1433  ls
+ 1434  adb devices
+ 1435  cd ..
+ 1436  ls
+ 1437  cd tools
+ 1438  ls
+ 1439  ls -la
+ 1440  emulator devices
+ 1441  emulator -list-avds
+ 1442  cd ..
+ 1443  cd platform-tools
+ 1444  ls
+ 1445  emulator -list-avds
+ 1446  cd ..
+ 1447  ls -la
+ 1448  tools
+ 1449  ls
+ 1450  emulator -list-avds
+ 1451  ./emulator -list-avds
+ 1452  ./emulator -avd Pixel_7_Pro_API_30 no-load
+ 1453  ./emulator -avd Pixel_7_Pro_API_30 -no-snapshot-load
+ 1454  ./emulator Pixel_7_Pro_API_30 -no-snapshot-load
+ 1455  ./emulator -avd Pixel_7_Pro_API_30 -no-snapshot-load
+ 1456  emulator -avd Pixel_7_Pro_API_30 -no-snapshot-load
+ 1457  ./emulator -avd Pixel_7_Pro_API_30 -no-snapshot-load
+ 1458  cd ..
+ 1459  home
+ 1460  cd home
+ 1461  cd ..
+ 1462  cd fepriyadi
+ 1463  export PATH=$PATH:~/Library/Android/sdk/emulator
+ 1464  chmod +x ~/Library/Android/sdk/emulator/emulator
+ 1465  emulator -avd Pixel_7_Pro_API_30 -no-snapshot-load
+ 1466  ls
+ 1467  cd dev
+ 1468  ls
+ 1469  cd android
+ 1470  ls
+ 1471  cd office/mnc/digital/analytics/mobile-sdk/
+ 1472  cd /Users/fep/dev/android/office/mnc/digital/analytics/mobile-sdk/ios
+ 1473  ls
+ 1474  cd ios
+ 1475  lks
+ 1476  ls
+ 1477  cat go
+ 1478  cd ~/Home
+ 1479  cd ..
+ 1480  cd Power
+ 1481  ls
+ 1482  cd ..
+ 1483  cd PowerAnalytics
+ 1484  rm -rf .git
+ 1485  git status
+ 1486  git init
+ 1487  git add .
+ 1488  git commit -m "first commit"
+ 1489  git branch -M main
+ 1490  git remote add origin https://github.com/fepriyadi/Analytics.git
+ 1491  git push -u origin main
+ 1492  ls
+ 1493  cd ..
+ 1494  cd androidpowerlytics
+ 1495  ls
+ 1496  cd ..
+ 1497  cd iospowerlytics
+ 1498  ./go convert
+ 1499  cd ~/.bash_profile
+ 1500  cd ~/Users/fepriyadi
+ 1501  cd ~/
+ 1502  ls
+ 1503  cd ..
+ 1504  c d..
+ 1505  cd ..
+ 1506  ls
+ 1507  ls -la
+ 1508  cd Users/fepriyadi
+ 1509  ls
+ 1510  ls -la
+ 1511  cat .bash_profile
+ 1512  echo $JAVA_HOME
+ 1513  cat .zshrc
+ 1514  vim .zshrc
+ 1515  java -v
+ 1516  java -versino
+ 1517  java -version
+ 1518  source .zshrc
+ 1519  java -version
+ 1520  cat .bash_profile
+ 1521  source .zshrc
+ 1522  vim .zshrc
+ 1523  cat .zshenv
+ 1524  /usr/libexec/java_home -V
+ 1525  /usr/libexec/java_home -v11.0.15.1
+ 1526  java -version
+ 1527  /usr/libexec/java_home -V
+ 1528  source .bash_profile
+ 1529  java -version
+ 1530  /usr/libexec/java_home
+ 1531  /usr/libexec/java_home -V
+ 1532  export JAVA_HOME=$(/usr/libexec/java_home -v 11.0.15.1)
+ 1533  source .bash_profile
+ 1534  /usr/libexec/java_home
+ 1535  cat .bash_profile
+ 1536  cat .zshenv
+ 1537  ls -la
+ 1538  cat .zshrc
+ 1539  cat .zshenv
+ 1540  vim .zshenv
+ 1541  cat .zshenv
+ 1542  source .zshenv
+ 1543  java -version
+ 1544  vim .bash_profile
+ 1545  source .bash_profile
+ 1546  java -version
+ 1547  vim .bash_profile
+ 1548  cat .bashrc
+ 1549  /usr/libexec/java_home -v11.0.15.1
+ 1550  java -version
+ 1551  cat .bash_profile
+ 1552  ls -la
+ 1553  cat .bash_profile0
+ 1554  /usr/libexec/java_home -v11.0.15.1
+ 1555  cat ./zshrc
+ 1556  cat .zshrc
+ 1557  java -version
+ 1558  cat .bashrc
+ 1559  ls -la
+ 1560  cat .zshrc.pre-oh-my-zsh
+ 1561  cat .oh-my-zsh
+ 1562  ls
+ 1563  cat .oh-my-zsh
+ 1564  cd .oh-my-zsh
+ 1565  ls
+ 1566  cd ..
+ 1567  echo $JAVA_HOME
+ 1568  export JAVA_HOME=$(/usr/libexec/java_home -v 11)
+ 1569  /usr/libexec/java_home -V
+ 1570  echo $JAVA_HOME
+ 1571  java -version
+ 1572  cat .bash_profile
+ 1573  cat .zshrc
+ 1574  echo $SHELL\n
+ 1575  java -version
+ 1576  cd /Users/fepriyadi/dev/android/office/mnc/digital/analytics/mobile-sdk/ios/
+ 1577  ls
+ 1578  cd ..
+ 1579  ls
+ 1580  cd iospowerlytics
+ 1581  ls
+ 1582  ./go convert
+ 1583  cd ~/
+ 1584  cd /Users/fepriyadi/dev/android/office/mnc/digital/analytics/mobile-sdk/iospowerlytics/j2objc/java
+ 1585  ls -la
+ 1586  ln -s /Users/fepriyadi/dev/android/office/mnc/digital/analytics/mobile-sdk/androidpowerlytics/app/src/main/java/com/power/analytics/Core.java Core.java
+ 1587  ln -s /Users/fepriyadi/dev/android/office/mnc/digital/analytics/mobile-sdk/androidpowerlytics/app/src/main/java/com/power/analytics/PowerAnalytics.java PowerAnalytics.java
+ 1588  ln -s /Users/fepriyadi/dev/android/office/mnc/digital/analytics/mobile-sdk/androidpowerlytics/app/src/main/java/com/power/analytics/TTask.java TTask.java
+ 1589  ls -la
+ 1590  ./go convert
+ 1591  ln -s /Users/fepriyadi/dev/android/office/mnc/digital/analytics/mobile-sdk/androidpowerlytics/app/src/main/java/com/power/analytics/Base64Coder.java Base64Coder.java
+ 1592  ./go convert
+ 1593  git status
+ 1594  git remote
+ 1595  git add . && git commit -m "Release 1.0.0"
+ 1596  git tag '1.0.0'
+ 1597  git push --tags
+ 1598  git push origin main
+ 1599  git spec link --verbose
+ 1600  pod spec link --verbose
+ 1601  ls
+ 1602  cd PowerAnalytics
+ 1603  ls
+ 1604  cd ..
+ 1605  ls
+ 1606  pod spec link --verbose
+ 1607  pod spec lint --verbose
+ 1608  ls
+ 1609  ./go convert
+ 1610  pod spec link --verbose
+ 1611  pod spec lint --verbose
+ 1612  cd ..
+ 1613  cd PowerAnalytics
+ 1614  pod spec lint --verbose
+ 1615  git tag -d '1.0.0'
+ 1616  git push --delete origin '1.0.0'
+ 1617  git add . && git commit -m "Release 0.1.0"
+ 1618  git tag '1.0.0'
+ 1619  git push --tags
+ 1620  git push origin main
+ 1621  pod spec lint --verbose
+ 1622  pod spec lint --verbose --allow-warnings
+ 1623  git tag -d '1.0.0'
+ 1624  git push --tags
+ 1625  git add . && git commit -m "Release 1.0.0"
+ 1626  git tag '1.0.0'
+ 1627  git tag -d '1.0.0'
+ 1628  git push --tags
+ 1629  git add . && git commit -m "Release 1.0.0"
+ 1630  git tag '1.0.0'
+ 1631  git push --tags
+ 1632  git tag -d '1.0.0'
+ 1633  git push --tags
+ 1634  git push --delete origin '1.0.0'
+ 1635  git add . && git commit -m "Release 1.0.0"
+ 1636  git tag '1.0.0'
+ 1637  git push --tags
+ 1638  git push origin main
+ 1639  pod trunk push PowerAnalytics.podspec --verbose
+ 1640  pod spec lint --verbose
+ 1641  pod spec lint --verbose --allow-warnings
+ 1642  pod trunk me
+ 1643  pod trunk register fepriyadihrp@gmail.com 'fepriyadihrp' --description='fep's macbook pro' --verbose
+ 1644  pod trunk register fepriyadihrp@gmail.com 'fepriyadihrp' --description='fep macbook pro' --verbose
+ 1645  pod trunk me
+ 1646  pod trunk push PowerAnalytics.podspec --verbose
+ 1647  pod trunk me
+ 1648  pod --update
+ 1649  pod update
+ 1650  pod trunk push PowerAnalytics.podspec --verbose
+ 1651  pod trunk push PowerAnalytics.podspec --allow-warnings --verbose\n
+ 1652  pod cache clean --all\n
+ 1653  pod repo update
+ 1654  pod trunk push PowerAnalytics.podspec --verbose
+ 1655  git status
+ 1656  git push origin main
+ 1657  pod trunk me
+ 1658  pod spec lint --verbose
+ 1659  pod spec lint --verbose --allow-warnings
+ 1660  ls -la
+ 1661  pod trunk push PowerAnalytics.podspec --verbose
+ 1662  pod trunk push
+ 1663  pod deintegrate
+ 1664  pod trunk push
+ 1665  git remote -v
+ 1666  pod trunk info PowerAnalytics
+ 1667  pod trunk info MNCAnalytics
+ 1668  git remote remove origin
+ 1669  git remote add origin https://github.com/fepriyadi/PowerAnalytics.git
+ 1670  git push -u origin main
+ 1671  git remote -v
+ 1672  git push --delete origin '1.0.0'
+ 1673  git tag -d '1.0.0'
+ 1674  git add . && git commit -m "Release 1.0.0"
+ 1675  git tag '1.0.0'
+ 1676  git push --tags
+ 1677  git push -u origin main
+ 1678  pod trunk push PowerAnalytics.podspec --verbose
+ 1679  clear
+ 1680  pod spec lint --verbose
+ 1681  clear
+ 1682  pod spec lint --verbose
+ 1683  cd /Users/fepriyadi/Documents/SDK/PODS/MNCAnalytics/
+ 1684  pod spec lint --verbose
+ 1685  cd ..
+ 1686  cd MNCAnalytics
+ 1687  pod spec lint --verbose
+ 1688  git push --delete origin '1.0.0'
+ 1689  git tag -d '1.0.0'
+ 1690  git add . && git commit -m "Release 1.0.0"
+ 1691  git tag '1.0.0'
+ 1692  git push --tags
+ 1693  git push -u origin main
+ 1694  pod spec lint --verbose
+ 1695  clear
+ 1696  pod spec lint --verbose
+ 1697  cd /Users/fepriyadi/Library/Caches/CocoaPods/Pods/External/PowerAnalytics
+ 1698  ls
+ 1699  ls  -la
+ 1700  cd 463b73e32e8bf243f27b706243cb103f-5f3da
+ 1701  ls
+ 1702  cd PowerAnalytics
+ 1703  ls
+ 1704  cd lib
+ 1705  ls
+ 1706  cd ..
+ 1707  ls
+ 1708  cd include
+ 1709  ls
+ 1710  cd ..
+ 1711  ls
+ 1712  cd include
+ 1713  ls
+ 1714  c d..
+ 1715  cd ..
+ 1716  cd lib
+ 1717  ls
+ 1718  pod spec lint --verbose
+ 1719  pod trunk push PowerAnalytics.podspec --verbose
+ 1720  git push --delete origin '1.0.0'
+ 1721  git tag -d '1.0.0'
+ 1722  git add . && git commit -m "Release 1.0.0"
+ 1723  git tag '1.0.0'
+ 1724  git push --tags
+ 1725  git push -u origin main
+ 1726  pod trunk push PowerAnalytics.podspec --verbose
+ 1727  pod trunk me
+ 1728  pod --help
+ 1729  pod try PowerAnalytics
+ 1730  pod trunk push PowerAnalytics.podspec --verbose
+ 1731  git tag -d '1.0.0'
+ 1732  git push --delete origin '1.0.0'
+ 1733  git tag '1.0.0'
+ 1734  git add . && git commit -m "Release 1.0.0"
+ 1735  git tag -d '1.0.0'
+ 1736  git tag '1.0.0'
+ 1737  git push --tags
+ 1738  git push -u origin main
+ 1739  pod trunk push PowerAnalytics.podspec --verbose
+ 1740  pod spec lint --verbose
+ 1741  rm -rf .git*
+ 1742  git init
+ 1743  git add .
+ 1744  git commit -m "first commit"
+ 1745  git branch -M main
+ 1746  git remote add origin https://github.com/fepriyadi/AndroidPowerlytics.git
+ 1747  git push -u origin main
+ 1748  git commit -m "change to power"
+ 1749  git push -u origin main
+ 1750  gpg -version
+ 1751  brew install gnupg
+ 1752  gpg --full-gen-key
+ 1753  gpg --keyserver hkp://keys.gnupg.net --send-keys D5359639
+ 1754  gpg --export-secret-keys D5359639 > /Users/fepriyadi/Documents/fepriyadi_secret_key.gpg
+ 1755  ./gradlew app:publishReleasePublicationToSonatypeRepository
+ 1756  gradlew powerlytics:publishReleasePublicationToMavenRepository
+ 1757  ./gradlew powerlytics:publishReleasePublicationToMavenRepository
+ 1758  ./gradlew power-sdk-master:publishReleasePublicationToMavenRepository
+ 1759  ./gradlew :powerlytics-sdk:publishReleasePublicationToMavenRepository
+ 1760  ./gradlew powerlytics-sdk:publishReleasePublicationToMavenRepository
+ 1761  ./gradlew app:publishReleasePublicationToSonatypeRepository
+ 1762  ./gradlew :app:publishAllPublicationsToCentralPortal
+ 1763  ./gradlew app:publishReleasePublicationToSonatypeRepository
+ 1764  ./gradlew app:publishAllPublicationsToCentralPortal
+ 1765  ./gradlew powerlytics:publishAllPublicationsToCentralPortal
+ 1766  ./gradlew app:publishReleasePublicationToSonatypeRepository
+ 1767  pod trunk push PowerAnalytics.podspec --verbose
+ 1768  cd .
+ 1769  pod trunk push PowerAnalytics.podspec --verbose
+ 1770  pod trunk push MNCAnalytics.podspec --verbose
+ 1771  pod spec lint --verbose
+ 1772  pod trunk push MNCAnalytics.podspec --verbose
+ 1773  cd ..
+ 1774  cd MNCAnalytics
+ 1775  ls
+ 1776  pod spec lint --verbose
+ 1777  pod trunk push MNCAnalytics.podspec --verbose
+ 1778  arch -arm64 brew install llvm
+ 1779  sudo gem install ffi
+ 1780  pod trunk push MNCAnalytics.podspec --verbose
+ 1781  pod spec lint --verbose
+ 1782  pod trunk push PowerAnalytics.podspec --verbose
+ 1783  ./go convert
+ 1784  git tag -d '1.0.0'
+ 1785  git push --delete origin '1.0.0'
+ 1786  git add . && git commit -m "Release 1.0.0'
+ 1787  git add . && git commit -m "Release 1.0.0"
+ 1788  git tag '1.0.0'
+ 1789  git push --tags
+ 1790  git push origin main
+ 1791  pod spec lint --verbose
+ 1792  arch -x86_64 brew install llvm
+ 1793  sudo gem install ffi
+ 1794  java -version
+ 1795  /usr/libexec/java_home -V
+ 1796  brew tap adoptopenjdk/openjdk
+ 1797  brew install --cask adoptopenjdk8
+ 1798  /usr/libexec/java_home -V
+ 1799  /usr/libexec/java_home -v 1.8
+ 1800  java -version
+ 1801  cat ~/.zshrc
+ 1802  export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+ 1803  java -version
+ 1804  ./go convert
+ 1805  pod spec lint --verbose
+ 1806  source .
+ 1807  cd ..
+ 1808  cd PowerAnalytics
+ 1809  ls
+ 1810  ls -la
+ 1811  cd ..
+ 1812  cd androidpowerlytics
+ 1813  ls -la
+ 1814  cd ..
+ 1815  cd ios
+ 1816  ls
+ 1817  ./go convert
+ 1818  pod spec lint --verbose
+ 1819  pod cache clean --all
+ 1820  rm -rf ~/Library/Developer/Xcode/DerivedData/
+ 1821  pod spec lint --verbose
+ 1822  cd ..
+ 1823  cd iospowerlytics
+ 1824  ./go convert
+ 1825  pod spec lint --verbose
+ 1826  pod cache clean --all
+ 1827  cd ..
+ 1828  cd PowerAnalytics
+ 1829  ls
+ 1830  pod spec lint --verbose
+ 1831  git tag -d '1.0.0'
+ 1832  git push --delete origin '1.0.0'
+ 1833  git add . && git commit -m "Release 1.0.0"
+ 1834  git tag '1.0.0'
+ 1835  git push --tags
+ 1836  git push origin main
+ 1837  pod spec lint --verbose
+ 1838  git tag -d '1.0.0'
+ 1839  git push --delete origin '1.0.0'
+ 1840  git add . && git commit -m "Release 1.0.0"
+ 1841  git tag '1.0.0'
+ 1842  git push --tags
+ 1843  git push origin main
+ 1844  git trunk push --verbose
+ 1845  git trunk push PowerAnalytics.podspec --verbose
+ 1846  pod trunk push PowerAnalytics.podspec --verbose
+ 1847  pod trunk push PowerAnalytics.podspec --verbose --allow-warnings
+ 1848  pod trunk me
+ 1849  pod search PowerAnalytics
+ 1850  pod update
+ 1851  pod repo update
+ 1852  pod search PowerAnalytics
+ 1853  pod trunk delete PowerAnalytics 1.0.0
+ 1854  pod trunk push PowerAnalytics.podspec --verbose --allow-warnings
+ 1855  pod repo update
+ 1856  pod search PowerAnalytics
+ 1857  pod repo update
+ 1858  pod search PowerAnalytics
+ 1859  pod trunk me
+ 1860  pod search PowerAnalytics --simple
+ 1861  pod search PowerAnalytics
+ 1862  pod search PowerAnalytics 1.0.0
+ 1863  pod --help
+ 1864  pod try PowerAnalytics
+ 1865  pod try PowerAnalytics --verbose
+ 1866  ./gradlew app:publishReleasePublicationToSonatypeRepository
+ 1867  pod search PowerAnalytics
+ 1868  pod search PowerAnalytics --simple
+ 1869  rm -rf .git
+ 1870  killall pboard
+ 1871  defaults delete com.apple.coreservices.useractivityd.plist\nkillall useractivityd
+ 1872  git init
+ 1873  git remote add origin git@git.alldataint.com:iq-streaming/iqstreaming/iqstreaming-sdk.git
+ 1874  git add .
+ 1875  git commit -m "Initial commit"
+ 1876  git push --set-upstream origin main
+ 1877  git push -u --set-upstream origin main
+ 1878  git push origin main
+ 1879  git config --local --list
+ 1880  git config --local user.name "Fepriyadi Harahap"
+ 1881  git config --local user.email "fepriyadihrp@gmail.com"
+ 1882  git push origin main
+ 1883  git config --global credential.helper store
+ 1884  git remote set-url origin http://git.alldataint.com:fepriyadihrp/iq-streaming/iqstreaming/iqstreaming-sdk.git
+ 1885  git push origin main
+ 1886  git remote set-url origin git.alldataint.com:fepriyadihrp/iq-streaming/iqstreaming/iqstreaming-sdk.git
+ 1887  git push origin main
+ 1888  git remote set-url origin http://git.alldataint.com/fepriyadihrp/iq-streaming/iqstreaming/iqstreaming-sdk.git
+ 1889  git push origin main
+ 1890  git remote set-url origin git@git.alldataint.com:iq-streaming/iqstreaming/iqstreaming-sdk.git
+ 1891  git push origin main
+ 1892  git remote set-url origin http://git.alldataint.com/iq-streaming/iqstreaming/iqstreaming-sdk.git
+ 1893  git push origin main
+ 1894  supabase init
+ 1895  brew install supabase/tap/supabase
+ 1896  supabase init
+ 1897  brew install supabase/tap/supabase
+ 1898  cd ~/Home
+ 1899  cd >>
+ 1900  cd ..
+ 1901  brew install supabase/tap/supabase
+ 1902  xcode-select --install
+ 1903  brew install supabase/tap/supabase
+ 1904  supabase init
+ 1905  cd /Users/fepriyadi
+ 1906  cd Documents/IQStream-be
+ 1907  supabase init
+ 1908  code .
+ 1909  supabase secrets set STRIPE_SECRET_KEY=apikey
+ 1910  supabase login
+ 1911  supabase secrets set STRIPE_SECRET_KEY=apikey
+ 1912  supabase start
+ 1913  supabase functions serve --no-verify
+ 1914  supabase functions serve --no-verify-jwt
+ 1915  supabase functions new metadata
+ 1916  supabase functions serve --no-verify-jwt
+ 1917  supabase start
+ 1918  supabase functions serve --no-verify-jwt
+ 1919  cat ~/.zsh_history > /Users/fepriyadi/Desktop/terminal_hist.txt
+ 1920  cd /Users/fep/Desktop/fepriyadiharahap.com/html
+ 1921  cd /Users/fepriyadi/Desktop/fepriyadiharahap.com/html
+ 1922  ls
+ 1923  ls -la
+ 1924  cat firebase.json
+ 1925  ls
+ 1926  cd public
+ 1927  ls
+ 1928  cd ..
+ 1929  firebase emulators:start
+ 1930  cd ..
+ 1931  firebase emulators:start
+ 1932  cd html/public
+ 1933  firebase emulators:start
+ 1934  cd ..
+ 1935  firebase emulators:start
+ 1936  firebase deploy
+ 1937  firebase --version
+ 1938  ls
+ 1939  ls -la
+ 1940  cd html
+ 1941  ls
+ 1942  ls -la
+ 1943  cd .firebase
+ 1944  ls
+ 1945  cd .firebaserc
+ 1946  cat .firebaserc
+ 1947  cd ..
+ 1948  cat .firebaserc
+ 1949  ls -la
+ 1950  add .
+ 1951  git add .
+ 1952  git commit -m "change experience"
+ 1953  git push origin main
+ 1954  git add .
+ 1955  git commit -m "latest"
+ 1956  git push origin main
+ 1957  brew tap dart-lang/dart
+ 1958  brew install dart
+ 1959  brew info dart
+ 1960  dart main.dart
+ 1961  flutter doctor
+ 1962  cd ..
+ 1963  cd Flutter\ Workspace
+ 1964  ls
+ 1965  flutter create coolapp
+ 1966  cd coolapp
+ 1967  ls
+ 1968  flutter run
+ 1969  java -version
+ 1970  /usr/libexec/java_home -v 1.8
+ 1971  java -version
+ 1972  export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+ 1973  java -version
+ 1974  flutter run
+ 1975  flutter doctor --verbise
+ 1976  flutter doctor --verbose
+ 1977  flutter run
+ 1978  /usr/libexec/java_home -V
+ 1979  export JAVA_HOME=$(/usr/libexec/java_home -v 19)
+ 1980  java -version
+ 1981  flutter run
+ 1982  flutter doctor --verbose
+ 1983  export JAVA_HOME=$(/usr/libexec/java_home -v 11)
+ 1984  java -version
+ 1985  /usr/libexec/java_home -V
+ 1986  export JAVA_HOME=$(/usr/libexec/java_home -v 11)
+ 1987  java -version
+ 1988  flutter run
+ 1989  /usr/libexec/java_home -V
+ 1990  export JAVA_HOME=$(/usr/libexec/java_home -v 19)
+ 1991  java -version
+ 1992  source .
+ 1993  flutter run
+ 1994  flutter clean
+ 1995  flutter run
+ 1996  java -version
+ 1997  /usr/libexec/java_home -V
+ 1998  export JAVA_HOME=$(/usr/libexec/java_home -v 17)
+ 1999  java -version
+ 2000  flutter clean
+ 2001  flutter pub get
+ 2002  flutter build apk
+ 2003  ./gradlew clean
+ 2004  cd android
+ 2005  ./gradlew clean
+ 2006  flutter build apk
+ 2007  rm -rf ~/.gradle/caches/
+ 2008  rm -rf android/.gradle/
+ 2009  cd ..
+ 2010  rm -rf android/.gradle/
+ 2011  rm -rf android/build
+ 2012  flutter clean
+ 2013  flutter pub get
+ 2014  flutter run
+ 2015  cat ~/.zshrc
+ 2016  ~/.bash_profile
+ 2017  cat ~/.bash_profile
+ 2018  cd android
+ 2019  ./gradlew --no-daemon --refresh-dependencies clean
+ 2020  source ~/.zshrc
+ 2021  source ~/.bash_profile
+ 2022  flutter run
+ 2023  flutter clean
+ 2024  flutter run
+ 2025  flutter analyze --suggestions
+ 2026  cd ..
+ 2027  flutter analyze --suggestions
+ 2028  java -version
+ 2029  flutter doctor -v
+ 2030  echo 'export JAVA_HOME=$(/usr/libexec/java_home -v 17)' >> ~/.zshrc
+ 2031  source ~/.zshrc
+ 2032  flutter analyze --suggestions
+ 2033  cd ..
+ 2034  cd ~/Applications
+ 2035  ls
+ 2036  ls -la
+ 2037  flutter run
+ 2038  flutter clean
+ 2039  flutter analyze --suggestions
+ 2040  echo GRADLE_LOCAL_JAVA_HOME
+ 2041  echo $GRADLE_LOCAL_JAVA_HOME
+ 2042  cd ~/Applications
+ 2043  ls
+ 2044  cd cd..
+ 2045  cd ..
+ 2046  ls
+ 2047  cd ..
+ 2048  ls
+ 2049  cd Ap
+ 2050  cd Applications/Android\ Studio.app/Contents/jbr/Contents/Home/
+ 2051  ls -la
+ 2052  cd bin 
+ 2053  ls
+ 2054  cd java
+ 2055  cd .
+ 2056  cd ..
+ 2057  cd ~/Users/fepriyadi
+ 2058  cd Documents/
+ 2059  cd /Documents/
+ 2060  cd /Documents
+ 2061  cd  ~/Documents/Flutter\ Workspace
+ 2062  cd coolapp
+ 2063  flutter analyze --suggestions
+ 2064  flutter clean
+ 2065  ./gradlew --no-daemon --refresh-dependencies clean
+ 2066  cd android
+ 2067  ./gradlew --no-daemon --refresh-dependencies clean
+ 2068  rm -rf ~/.gradle/caches/
+ 2069  flutter analyze --suggestions
+ 2070  cd ..
+ 2071  flutter analyze --suggestions
+ 2072  cd ~/Library/Java/JavaVirtualMachines/corretto-17.0.12/Contents/Home.fasfas
+ 2073  flutter analyze --suggestions
+ 2074  rm -rf ~/.gradle/caches/
+ 2075  rm -rf ~/.gradle/daemon/
+ 2076  rm -rf android/.gradle/
+ 2077  rm -rf android/build/
+ 2078  ./gradlew --no-daemon --refresh-dependencies clean
+ 2079  android/./gradlew --no-daemon --refresh-dependencies clean
+ 2080  android/./gradlew init
+ 2081  android/./gradlew --no-daemon --refresh-dependencies clean
+ 2082  flutter analyze --suggestions
+ 2083  flutter clean
+ 2084  flutter run
+ 2085  flutter config --jdk-dir=/Users/fepriyadi/Library/Java/JavaVirtualMachines/corretto-17.0.12/Contents/Home
+ 2086  flutter run
+ 2087  cd ~/Applications
+ 2088  ls
+ 2089  cd ..
+ 2090  c d..
+ 2091  cd ..
+ 2092  ls
+ 2093  cd Applications
+ 2094  ls
+ 2095  cd Android\ Studio.app
+ 2096  ls
+ 2097  cd Contents
+ 2098  ls
+ 2099  cat license
+ 2100  cd license
+ 2101  ls
+ 2102  cd ,,
+ 2103  ls
+ 2104  cd ..
+ 2105  ls
+ 2106  cd MacOS
+ 2107  ls
+ 2108  cd stu
+ 2109  cat studio
+ 2110  cd .
+ 2111  c d..
+ 2112  cd ..
+ 2113  ls
+ 2114  cat Info.plist
+ 2115  cd ..
+ 2116  c d..
+ 2117  ls
+ 2118  cd ..
+ 2119  ls
+ 2120  flutter run
+ 2121  flutter devices\n
+ 2122  flutter emulators
+ 2123  flutter emulators --launch Pixel_7_Pro_API_30
+ 2124  flutter devices
+ 2125  flutter doctor
+ 2126  flutter devices
+ 2127  flutter emulators
+ 2128  flutter emulators --launch Pixel_7_Pro_API_35
+ 2129  flutter emulators --launch  Android 15 (API 35) (emulator)
+ 2130  flutter doctor --android-licenses
+ 2131  flutter analyze --suggestions
+ 2132  flutter run
+ 2133  flutter pub add flutter_bloc
+ 2134  flutter clean
+ 2135  flutter run
+ 2136  flutter analyze --suggestions
+ 2137  flutter doctor
+ 2138  flutter pub get
+ 2139  flutter pub upgrade
+ 2140  flutter clean
+ 2141  flutter pub get
+ 2142  flutter run
+ 2143  flutter clean
+ 2144  flutter pub get
+ 2145  plugins {\n    id "dev.flutter.flutter-plugin-loader" version "1.0.0"\n    id "com.android.application" version "7.3.0" apply false\n    id "org.jetbrains.kotlin.android" versionO
+ 2146  flutter run
+ 2147  flutter clean
+ 2148  flutter pub get
+ 2149  flutter run
+ 2150  flutter clean
+ 2151  flutter pub get
+ 2152  flutter run
+ 2153  flutter packages pub run build_runner build
+ 2154  flutter clean
+ 2155  flutter pub get
+ 2156  flutter run
+ 2157  flutter clean
+ 2158  flutter pub get
+ 2159  flutter analyze --suggestions
+ 2160  flutter clean
+ 2161  flutter pub get
+ 2162  flutter run
+ 2163  flutter clean
+ 2164  flutter pub get
+ 2165  flutter run
+ 2166  dart fix
+ 2167  dart fix --apply
+ 2168  ls
+ 2169  cd ..
+ 2170  ls
+ 2171  cd Library
+ 2172  ls
+ 2173  cd Preference
+ 2174  ls
+ 2175  cd Preference
+ 2176  cd Preferences
+ 2177  ls
+ 2178  defaults delete com.apple.coreservices.useractivityd.plist ClipboardSharingEnabled
+ 2179  defaults write com.apple.coreservices.useractivityd.plist ClipboardSharingEnabled 1
+ 2180  ls
+ 2181  git remote branch
+ 2182  git remote b-v
+ 2183  git remote get-url origin 
+ 2184  ./gradlew app:publishReleasePublicationToSonatypeRepository
+ 2185  ./gradlew iqstream:publishReleasePublicationToSonatypeRepository
+ 2186  history > ~/Documents/history.txt
+ 2187  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_8_Pro_API_30 -no-snapshot-load
+ 2188  /Users/fepriyadi/Library/Android/sdk/emulator/emulator -avd Pixel_8_Pro_API_30 -no-snapshot-load
+ 2189  /Users/fep/Library/Android/sdk/emulator/emulator -avd Pixel_4_API_29 -no-snapshot-load
+ 2190  /Users/fepriyadi/Library/Android/sdk/emulator/emulator -avd Pixel_8_Pro_API_30 -no-snapshot-load
+ 2191  /Users/fepriyadi/Library/Android/sdk/emulator/emulator -avd Pixel_7_Pro_API_35 -no-snapshot-load
+ 2192  c dhome
+ 2193  cd heom
+ 2194  cd home
+ 2195  caffeinate -d -i -m -s
+ 2196  caffeinate -d
+ 2197  cd ..
+ 2198  c d..
+ 2199  cd ..
+ 2200  ls
+ 2201  cd home
+ 2202  ls
+ 2203  cd ..
+ 2204  ls
+ 2205  caffeinate
+ 2206  caffeinate d
+ 2207  caffeinate -\d
+ 2208  caffeinate -d
+ 2209  open -a ScreenSaverEngine
+ 2210  caffeinate -diu
+ 2211  killall Dock
+ 2212  cd ~/Documents
+ 2213  cd Flutter\ Workspace
+ 2214  ls
+ 2215  flutter create dicoding
+ 2216  flutter build apk --debug
+ 2217  flutter build ios
+ 2218  flutter build apk
+ 2219  flutter clean
+ 2220  flutter upgrade
+ 2221  flutter build apk
+ 2222  ./gradlew clean build
+ 2223  flutter clean
+ 2224  ./gradlew clean build
+ 2225  flutter devices
+ 2226  flutter emulators
+ 2227  adb kill-server
+ 2228  flutter doctor
+ 2229  flutter run
+ 2230  ./gradlew clean build
+ 2231  flutter doctor
+ 2232  flutter run
+ 2233  ./gradlew clean build
+ 2234  flutter run
+ 2235  ./gradlew clean build
+ 2236  flutter doctor
+ 2237  flutter run
+ 2238  flutter clean
+ 2239  flutter pub get
+ 2240  flutter run
+ 2241  ./gradlew assembleDebug --info
+ 2242  ./gradlew clean build
+ 2243  flutter run
+ 2244  cd /Users/fepriyadi/Library/Android/sdk/ndk/27.3.13750724
+ 2245  ./gradlew clean build
+ 2246  flutter run
+ 2247  ./gradlew clean build
+ 2248  flutter run
+ 2249  ./gradlew clean build
+ 2250  flutter run
+ 2251  ./gradlew clean build
+ 2252  flutter clean
+ 2253  flutter run
+ 2254  flutter clean
+ 2255  flutter get pub
+ 2256  flutter pub get
+ 2257  flutter run
+ 2258  flutter clean
+ 2259  flutter pub get
+ 2260  flutter run
+ 2261  flutter clean
+ 2262  flutter pub get
+ 2263  flutter run
+ 2264  grep -r "import 'package:flutter/src/material/carousel.dart'" lib/
+ 2265  flutter run
+ 2266  \tflutter pub deps | grep carousel
+ 2267  flutter run
+ 2268  flutter clean
+ 2269  echo $FLUTTER_SDK
+ 2270  cd /Users/fepriyadi/dev/flutter
+ 2271  cat /packages/flutter_tools/gradle/flutter.gradle
+ 2272  cd packages/flutter_tools
+ 2273  gradle/flutter.gradle
+ 2274  sudo gradle/flutter.gradle
+ 2275  cd gradle
+ 2276  ls
+ 2277  vim flutter.gradle
+ 2278  cd /Users/fepriyadi/Documents/Flutter\ Workspace
+ 2279  cd coolapp
+ 2280  sdkmanager "ndk;27.3.13750724"
+ 2281  flutter clean
+ 2282  flutter pub get
+ 2283  flutter run
+ 2284  flutter clean
+ 2285  flutter run
+ 2286  git init
+ 2287  git add .
+ 2288  git commit -m 'initial commit'
+ 2289  git remote add origin https://github.com/fepriyadi/dicoding_flutter.git
+ 2290  git push -u origin main
+ 2291  flutter clean
+ 2292  flutter pub get
+ 2293  flutter run
+ 2294  flutter clean
+ 2295  flutter pub get
+ 2296  flutter DicodingFlutterPemula
+ 2297  flutter create DicodingFlutterPemula
+ 2298  flutter doctor
+ 2299  flutter pub get
+ 2300  flutter clean
+ 2301  flutter pub get
+ 2302  flutter clean
+ 2303  flutter pub get
+ 2304  flutter run
+ 2305  ./gradlew clean & build
+ 2306  ./android/gradlew clean & build
+ 2307  /android/.gradlew clean & build
+ 2308  /android/.gradlew clean
+ 2309  ./gradlew clean build
+ 2310  ./android/gradlew clean build
+ 2311  flutter clean
+ 2312  flutter pub get
+ 2313  flutter build apk
+ 2314  cd ..
+ 2315  flutter pub get
+ 2316  flutter build apk
+ 2317  cd android
+ 2318  ls
+ 2319  ./gradlew clean
+ 2320  ./gradlew stop
+ 2321  cleanBuildCache
+ 2322  ./gradle cleanBuildCache
+ 2323  ./gradlew cleanBuildCache
+ 2324  flutter clean
+ 2325  flutter pub get
+ 2326  ./gradlew stop
+ 2327  ./gradlew cleam
+ 2328  ./gradlew clean
+ 2329  ./gradlew cleanBuildCache
+ 2330  ./gradlew clean build
+ 2331  /Users/fepriyadi/Library/Android/sdk/emulator/emulator -avd Pixel_7_Pro_API_35 -no-snapshot-load
+ 2332  brew install lcov
+ 2333  flutter test --coverage genhtml coverage/lcov.info -o coverage/html
+ 2334  flutter test --coverage
+ 2335  flutter pub run build_runner build
+ 2336  flutter test --coverage
+ 2337  flutter test --coverage genhtml coverage/lcov.info -o coverage/html
+ 2338  flutter test --coverage genhtml
+ 2339  flutter test --coverage tests
+ 2340  flutter test --coverage test
+ 2341  flutter test --coverage
+ 2342  flutter pub run build_runner build
+ 2343  flutter test --coverage
+ 2344  genhtml coverage/lcov.info -o coverage/html
+ 2345  flutter test --coverage
+ 2346  genhtml coverage/lcov.info -o coverage/html
+ 2347  flutter test --coverage
+ 2348  genhtml coverage/lcov.info -o coverage/html
+ 2349  flutter pub run build_runner build
+ 2350  cd test
+ 2351  cd dummy
+ 2352  tail -c +4 tv_list.json > tv_list.json
+ 2353  file tv_list.json
+ 2354  flutter pub run build_runner build
+ 2355  flutter test --coverage
+ 2356  cd ..
+ 2357  flutter test --coverage
+ 2358  genhtml coverage/lcov.info -o coverage/html
+ 2359  dart fix --apply
+ 2360  flutter clean
+ 2361  ./gradlew clean build
+ 2362  flutter clean
+ 2363  ./gradlew clean build
+ 2364  ./android/gradlew clean build
+ 2365  ./gradew init
+ 2366  ./android/gradew init
+ 2367  ./android/gradlew init
+ 2368  ./android/gradlew clean
+ 2369  flutter run
+ 2370  ./gradlew clean build
+ 2371  ~./gradlew
+ 2372  ~./gradlew clean
+ 2373  flutter run
+ 2374  flutter clean
+ 2375  flutter pub get
+ 2376  ~./gradlew clean
+ 2377  ./gradlew clean
+ 2378  flutter clean
+ 2379  flutter pub get
+ 2380  flutter run
+ 2381  flutter clean
+ 2382  flutter pub get
+ 2383  flutter clean
+ 2384  flutter pub get
+ 2385  flutter clean
+ 2386  flutter pub get
+ 2387  flutter clean
+ 2388  flutter pub get
+ 2389  flutter
+ 2390  flutter clean
+ 2391  flutter pub get
+ 2392  flutter clean
+ 2393  flutter pub get
+ 2394  flutter clean
+ 2395  flutter pub get
+ 2396  flutter test -coverage
+ 2397  flutter test --coverage
+ 2398  genhtml coverage/lcov.info -o coverage/html
+ 2399  dart fix apply
+ 2400  dart fix --apply
+ 2401  flutter clean
+ 2402  dart fix --apply
+ 2403  flutter test --coverage
+ 2404  flutter clean
+ 2405  flutter pub run build_runner build
+ 2406  flutter pub run build_runner buildC
+ 2407  flutter pub run build_runner build
+ 2408  flutter clean
+ 2409  flutter pub run build_runner build --delete-conflicting-outputs\n
+ 2410  flutter pub run build_runner build
+ 2411  flutter packages upgrade
+ 2412  flutter pub run build_runner build --delete-conflicting-outputs\n
+ 2413  flutter pub run build_runner build
+ 2414  flutter clean
+ 2415  flutter pub run build_runner build
+ 2416  dart fix --apply
+ 2417  flutter test --coverage
+ 2418  genhtml coverage/lcov.info -o coverage/html
+ 2419  flutter clean
+ 2420  ls -la
+ 2421  rm -rf .git
+ 2422  ls -la
+ 2423  git init
+ 2424  git add .
+ 2425  git commit -m "first commit"
+ 2426  git branch -M main
+ 2427  git remote add origin https://github.com/fepriyadi/dicoding-flutter-expert.git
+ 2428  git push -u origin main
+ 2429  dart format lib
+ 2430  vim .github/config_dart.yml
+ 2431  cd .github
+ 2432  ls
+ 2433  cd workflows
+ 2434  ls
+ 2435  cd ..
+ 2436  rm -rf config_dart.yml
+ 2437  ls
+ 2438  cd workflows
+ 2439  vim dart_config.yml
+ 2440  cd ..
+ 2441  ls
+ 2442  ls -la
+ 2443  cat .gitignore
+ 2444  flutter --version
+ 2445  flutter analize
+ 2446  flutter analyze
+ 2447  flutter clean
+ 2448  flutter pub run build_runner build
+ 2449  flutter clean
+ 2450  dart format lib
+ 2451  dart fix --apply
+ 2452  flutter analyze
+ 2453  flutter test --coverage
+ 2454  flutter pub run build_runner build
+ 2455  flutter test --coverage
+ 2456  flutter clean
+ 2457  flutter test --coverage
+ 2458  flutter pub run build_runner build
+ 2459  flutter test --coverage
+ 2460  genhtml coverage/lcov.info -o coverage/html
+ 2461  cd home
+ 2462  cd ~/home
+ 2463  cd ..
+ 2464  npm install -g firebase-tools
+ 2465  firebase login
+ 2466  ls /usr/local/opt/icu4c/lib/
+ 2467  npm uninstall -g firebase-tools
+ 2468  brew link icu4c --force
+ 2469  brew reinstall icu4c\n
+ 2470  brew link icu4c --force
+ 2471  vim .zshrc
+ 2472  brew link icu4c --force
+ 2473  source .zshrc
+ 2474  brew link icu4c --force
+ 2475  source .zshrc
+ 2476  brew link icu4c --force
+ 2477  echo 'export PATH="/usr/local/opt/icu4c@77/bin:$PATH"' >> ~/.zshrc
+ 2478  echo 'export PATH="/usr/local/opt/icu4c@77/sbin:$PATH"' >> ~/.zshrc
+ 2479  vim .zshrc
+ 2480  source .zshrc
+ 2481  brew link icu4c --force
+ 2482  vim .zshrc
+ 2483  brew link icu4c --force
+ 2484  source .zshrc
+ 2485  brew link icu4c --force
+ 2486  ls /usr/local/opt/icu4c/lib/
+ 2487  npm uninstall -g firebase-tools
+ 2488  brew unlink icu4c
+ 2489  brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9d5e0ff8fc/Formula/i/icu4c.rb
+ 2490  brew info icu4c
+ 2491  ls /usr/local/opt/icu4c/lib/
+ 2492  npm install -g firebase-tools\n
+ 2493  firebase
+ 2494  npm uninstall -g firebase-tools
+ 2495  brew unlink icu4c && brew link icu4c
+ 2496  brew uninstall --ignore-dependencies node
+ 2497  brew install node
+ 2498  npm install -g firebase-tools\n
+ 2499  brew cleanup\n
+ 2500  brew prune
+ 2501  firebase login
+ 2502  dart pub global activate flutterfire_cli
+ 2503  flutterfire configure
+ 2504  echo 'export PATH="$PATH":"$HOME/.pub-cache/bin"' >> ~/.zshrc
+ 2505  cat .zshrc
+ 2506  source .zshrc
+ 2507  source ~/.zshrc
+ 2508  flutterfire configure
+ 2509  ./gradlew
+ 2510  /.gradlew
+ 2511  cd ios
+ 2512  pod init
+ 2513  pod install
+ 2514  cd ..
+ 2515  dart pub global activate flutterfire_cli
+ 2516  flutterfire configure --project=dicoding-flutter-f533a
+ 2517  firebase projects:list
+ 2518  source /Users/fepriyadi/.zshrc
+ 2519  firebase projects:list
+ 2520  firebase debug.log
+ 2521  which firebase
+ 2522  flutterfire configure
+ 2523  dart pub global deactivate flutterfire_cli
+ 2524  dart pub global activate flutterfire_cli
+ 2525  flutterfire configure
+ 2526  firebase --debug projects:list
+ 2527  firebase logout
+ 2528  firebase login
+ 2529  firebase projects:list
+ 2530  flutterfire configure dicoding-flutter
+ 2531  ls -la
+ 2532  cd android
+ 2533  ls
+ 2534  gradlew clean build
+ 2535  ./gradlew clean build
+ 2536  flutter clean
+ 2537  flutter pub get
+ 2538  ./gradlew clean build
+ 2539  flutter clean
+ 2540  ./gradlew clean build
+ 2541  flutter clean
+ 2542  flutter pub get
+ 2543  flutter clean
+ 2544  flutter pub get
+ 2545  flutter clean
+ 2546  flutter pub get
+ 2547  flutter clean
+ 2548  flutter pub get
+ 2549  flutter clean
+ 2550  flutter pub get
+ 2551  flutter clean
+ 2552  flutter pub get
+ 2553  flutter clean
+ 2554  flutter pub get
+ 2555  flutter clean
+ 2556  flutter pub get
+ 2557  flutter clean
+ 2558  flutter pub get
+ 2559  flutter clean
+ 2560  flutter pub get
+ 2561  flutter clean
+ 2562  flutter pub get
+ 2563  flutter clean
+ 2564  flutter pub get
+ 2565  flutter clean
+ 2566  flutter pub get
+ 2567  flutter clean
+ 2568  flutter pub get
+ 2569  flutter clean
+ 2570  flutter pub get
+ 2571  flutter clean
+ 2572  flutter pub get
+ 2573  flutter clean
+ 2574  flutter pub get
+ 2575  flutter clean
+ 2576  flutter pub get
+ 2577  openssl x509 -in developer.themoviedb.cer -text -noout
+ 2578  openssl s_client -connect api.themoviedb.org:443 -showcerts
+ 2579  echo | openssl s_client -connect api.themoviedb.org:443 -servername api.themoviedb.org 2>/dev/null \\n| awk '/-----BEGIN CERTIFICATE-----/,/-----END CERTIFICATE-----/' > tmdb_api_cert.pem
+ 2580  flutter clean
+ 2581  flutter pub get
+ 2582  flutter pub run build_runner build
+ 2583  cd ..
+ 2584  ls
+ 2585  ls -la
+ 2586  vim .gitignore
+ 2587  git rm -r --cached coverage/
+ 2588  vim .gitignore
+ 2589  git commit -m "exlude coverage"
+ 2590  vim .gitignore
+ 2591  git commit -m "all done"
+ 2592  flutter clean
+ 2593  flutter pub run build_runner build
+ 2594  flutter test --coverage
+ 2595  genhtml coverage/lcov.info -o coverage/html
+ 2596  flutter clean
+ 2597  flutter pub get
+ 2598  flutter clean
+ 2599  flutter pub get
+ 2600  flutter test --coverage
+ 2601  genhtml coverage/lcov.info -o coverage/html
+ 2602  flutter pub run build_runner build
+ 2603  flutter test --coverage
+ 2604  genhtml coverage/lcov.info -o coverage/html
+ 2605  flutter clean
+ 2606  flutter test --coverage
+ 2607  genhtml coverage/lcov.info -o coverage/html
+ 2608  flutter clean
+ 2609  dart fix --apply
+ 2610  dart format lib
+ 2611  flutter clean
+ 2612  flutter pub outdated
+ 2613  flutter pub upgrade firebase_core
+ 2614  flutter pub upgrade firebase_analytics
+ 2615  flutter pub upgrade firebase_crashlytics
+ 2616  flutter clean
+ 2617  dart fix --apply
+ 2618  dart format lib
+ 2619  flutter clean
+ 2620  pip install torch torchvision
+ 2621  pip3 install torch torchvision
+ 2622  python3.13 -m pip install --upgrade pip
+ 2623  python3.13 -m pip3 install --upgrade pip
+ 2624  python3 -m pip install --upgrade pip
+ 2625  pip3 install torch torchvision
+ 2626  brew pip install --updgrade pip
+ 2627  brew install --updgrade pip
+ 2628  python3 -m pip install --upgrade pip
+ 2629  python3 -m pip install --upgrade pip3
+ 2630  vim .zshrc
+ 2631  source .zshrc
+ 2632  python -m pip install --upgrade pip3
+ 2633  brew install pipx
+ 2634  python -m pip install --upgrade pip3
+ 2635  brew update
+ 2636  brew update phyton
+ 2637  brew update python
+ 2638  brew update python3
+ 2639  brew upgrade python
+ 2640  python -m pip install --upgrade pip\n
+ 2641  pip install torch torchvision
+ 2642  python -m pip instal torch torchvision
+ 2643  python -m pip install torch torchvision
+ 2644  vim pip.config
+ 2645  vim .zshrc
+ 2646  vim pip-config
+ 2647  vim .zshrc
+ 2648  source .zshrc
+ 2649  python -m pip install torch torchvision
+ 2650  python -m venv venv
+ 2651  source venv/bin/activate
+ 2652  pip install torch torchvision torchaudio
+ 2653  exit
+ 2654  source venv/bin/activate
+ 2655  pip install torch torchvision
+ 2656  pip install torch --break-system-packages
+ 2657  pip install torch torchvision  --break-system-packages
+ 2658  pipx --version
+ 2659  pipx install torch
+ 2660  pip install --upgrade pip
+ 2661  quit
+ 2662  source venv/bin/deactivate
+ 2663  quit
+ 2664  pip install --upgrade pip
+ 2665  pip install --user --upgrade pip
+ 2666  pip install tensorflow
+ 2667  python3 -m pip install torch --break-system-packages
+ 2668  python3 -m pip install torch --upgrade
+ 2669  python3 -m pip install torch --upgrade pip
+ 2670  python3 -m pip install --upgrade pip
+ 2671  python3 -m pip install torch --break-system-packages
+ 2672  python3 -m pip install torch torchvision --break-system-packages
+ 2673  python -m pip install torch torchvision --break-system-packages
+ 2674  python --version
+ 2675  brew install pyenv
+ 2676  pyenv install 3.11.9
+ 2677  pyenv global 3.11.9
+ 2678  pyenv install 3.10.13
+ 2679  pip install tensorflow
+ 2680  exit
+ 2681  brew uninstall python
+ 2682  brew uninstall python3
+ 2683  brew uninstall pipx
+ 2684  brew uninstall --ignore-dependencies python3
+ 2685  brew update
+ 2686  brew upgrade
+ 2687  brew update
+ 2688  pip install tensorflow
+ 2689  python -m pip install torch torchvision --break-system-packages
+ 2690  brew info python
+ 2691  brew install python
+ 2692  brew install pyenv
+ 2693  pyenv install 3.10.13
+ 2694  pyenv install 3.10.13 --verbose
+ 2695  sudo pyenv install 3.10.13 --verbose
+ 2696  brew install python@3.11
+ 2697  python -m pip install torch torchvision
+ 2698  python3 -m pip install torch torchvision
+ 2699  pip install --upgrade pip
+ 2700  pip3 install --upgrade pip
+ 2701  pip install tensorflow
+ 2702  pip3 install tensorflow
+ 2703  pip install tensorflow[and-cuda]
+ 2704  pip3 install tensorflow[and-cuda]
+ 2705  pip3 install pandas
+ 2706  /usr/local/bin/python3.11 /Users/fepriyadi/Documents/ML/main.py
+ 2707  python3 -m venv venv
+ 2708  source venv/bin/activate
+ 2709  cd Documents/ML
+ 2710  python3 main.py
+ 2711  pip install numpy
+ 2712  pip3 install numpy
+ 2713  python3 main.py
+ 2714  python main.py
+ 2715  python3 main.py
+ 2716  pip3 install jupyter
+ 2717  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2718  jupyter notebook
+ 2719  pip3 install jupyter
+ 2720  python3 -m pip install jupyter
+ 2721  sudo pip3 install jupyter
+ 2722  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/fepriyadi/.vscode/extensions/ms-python.python-2025.12.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/fepriyadi/.vscode/extensions/ms-python.python-2025.12.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 2723  /opt/anaconda3/bin/python /Users/fepriyadi/Documents/ML/test_deploy.py
+ 2724  curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -d @data.json
+ 2725  curl -X POST http://127.0.0.1:5000/predict
+ 2726  curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -d 
+ 2727  /opt/anaconda3/bin/python /Users/fepriyadi/Documents/ML/test_deploy.py
+ 2728  curl -X POST http://localhost:5000/predict -H "Content-Type: application/json" -d 
+ 2729  curl -X POST http://localhost:5000/predict -H "Content-Type: application/json" -d @data.json
+ 2730  curl -X POST http://localhost:5000/predict
+ 2731  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/fepriyadi/.vscode/extensions/ms-python.python-2025.12.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/fepriyadi/.vscode/extensions/ms-python.python-2025.12.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 2732  curl -X POST http://localhost:5000/predict -H "Content-Type: application/json" -d 
+ 2733  pip install jupyter install yellowbrick
+ 2734  python3 -m pip install yellowbrick
+ 2735  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/fepriyadi/.vscode/extensions/ms-python.python-2025.12.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/fepriyadi/.vscode/extensions/ms-python.python-2025.12.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 2736  npm install
+ 2737  npm run dev
+ 2738  npm install
+ 2739  npm run dev
+ 2740  npm i -D ts-loader typescript vue-loader
+ 2741  npm install
+ 2742  npm run dev
+ 2743  git remote -v
+ 2744  git checkout -b bugfix/talent-demographi-exceed
+ 2745  npm install
+ 2746  npm run dev
+ 2747  git config pull.rebase false
+ 2748  git status
+ 2749  git pull
+ 2750  npm slint
+ 2751  npm eslint
+ 2752  npx eslint
+ 2753  npm run dev
+ 2754  npm list reka-ui
+ 2755  npm run dev
+ 2756  git checkout -b bugfix/campaign-search-choose-add-brand
+ 2757  git rm --cached yarn.lock
+ 2758  git add yarn.lock
+ 2759  git add -f yarn.lock
+ 2760  npx eslint
+ 2761  npm run dev
+ 2762  git checkout -b bugfix/campaign-allocation-total
+ 2763  npm run dev
+ 2764  npm install
+ 2765  npm run dev
+ 2766  go --versino
+ 2767  go --version
+ 2768  go version
+ 2769  cd consumer
+ 2770  go build
+ 2771  go help modules
+ 2772  go build
+ 2773  go mod init mnca
+ 2774  cd ../consumert
+ 2775  go mod init mnca
+ 2776  go mod tidy
+ 2777  cd ../consumer
+ 2778  go mod tidy
+ 2779  cd ../producer
+ 2780  go mod init mnca
+ 2781  go mod tidy
+ 2782  cd ../consumer
+ 2783  go build
+ 2784  npm run dev
+ 2785  npm install
+ 2786  npm run dev
+ 2787  git checkout -b bugfix/register-agency-nib-doc
+ 2788  npm run dev
+ 2789  git checkout -b bugfix/campaign-detail-preview-edit
+ 2790  npm run dev
+ 2791  git checkout -b bugfix/agency-service-reject
+ 2792  npm run dev
+ 2793  /usr/bin/git -C "/Users/fepriyadi/Documents/kol-cms" -c "core.editor=/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code --wait --reuse-window" revert --edit 484ac03437f7921e4a31aef06dc3ea0ab11fc643
+ 2794  npm run dev
+ 2795  git checkout -b bugfix/profile-client-detail-register
+ 2796  npm run dev
+ 2797  git checkout -b bugfix/campaign-form-project-type
+ 2798  npm run dev
+ 2799  git checkout -b bugfix/campaign-client-add
+ 2800  npm run dev
+ 2801  git checkout -b bugfix/byfep
+ 2802  npm run dev
+ 2803  pip install scikit-optimize
+ 2804  pip3 install scikit-optimize
+ 2805  history > my_terminal_history.txt
+ 2806  python3 -m pip install scikit-optimize
+ 2807  sudo pip3 install scikit-optimize
+ 2808  pip install scikit-optimize
+ 2809  pip3 --version
+ 2810  pip --version
+ 2811  python --version
+ 2812  pip install scikit-optimize
+ 2813  python pip install scikit-optimize
+ 2814  python -m pip install scikit-optimize
+ 2815  python --version
+ 2816  python install scikit-optimize
+ 2817  sudo pip3 install scikit-optimize
+ 2818  python
+ 2819  python -m pip install scikit-optimize\n
+ 2820  brew install scikit-optimize
+ 2821  pip install scikit-optimize==0.8.1
+ 2822  pip --help
+ 2823  pip download scikit-optimize
+ 2824  pip install scikit-optimize
+ 2825  pip show scikit-optimize
+ 2826  pip3 show scikit-optimize
+ 2827  python show scikit-optimize
+ 2828  python3 show scikit-optimize
+ 2829  pip show scikit-optimize
+ 2830  pip install scikit-optimize
+ 2831  python3 -m venv venv
+ 2832  python -m venv venv
+ 2833  source venv/bin/activate
+ 2834  pip install scikit-optimize
+ 2835  brew install pipx
+ 2836  pipx install scikit-optimize
+ 2837  pip install scikit-optimize
+ 2838  pip3 install scikit-optimize
+ 2839  pip show scikit-optimize
+ 2840  pip3 show scikit-optimize
+ 2841  Name: scikit-optimize\nVersion: 0.10.2\nSummary: Sequential model-based optimization toolbox.\nHome-page: https://scikit-optimize.readthedocs.io/en/latest/contents.html\nAuthor: The scikit-opti
+ 2842  pip install jupyter ipykernel scikit-optimize
+ 2843  pip3 install jupyter ipykernel scikit-optimize
+ 2844  exit
+ 2845  conda install -n base scikit-optimize
+ 2846  conda install -c conda-forge scikit-optimize
+ 2847  conda install -c conda-forge keras
+ 2848  conda activate base
+ 2849  conda info --envs
+ 2850  conda install -c conda-forge tensorflow
+ 2851  conda install -c conda-forge keras
+ 2852  python --version
+ 2853  python3 --version
+ 2854  conda search -c conda-forge "^python$"
+ 2855  python3 --version
+ 2856  conda install -c conda-forge tensorflow=2.10
+ 2857  conda install -c conda-forge tensorflow=2.10.0
+ 2858  conda install -c conda-forge tensorflow-macos
+ 2859  pip install tensorflow
+ 2860  pip3 install tensorflow
+ 2861  exit
+ 2862  conda activate base
+ 2863  pip3 install tensorflow
+ 2864  pip3 install keras
+ 2865  keras --version
+ 2866  pip3 show tensorflow
+ 2867  conda show tensorflow
+ 2868  conda list tensorflow
+ 2869  conda install -c conda-forge tensorflow
+ 2870  conda activate base python=3.10
+ 2871  conda activate base
+ 2872  python --version
+ 2873  python3 --version
+ 2874  conda activate base
+ 2875  conda install -c conda-forge tensorflow
+ 2876  pip3 install tensorflow
+ 2877  python -c "import tensorflow as tf; print(tf.__version__)"
+ 2878  python3 -c "import tensorflow as tf; print(tf.__version__)"
+ 2879  which python3
+ 2880  anaconda python3 -c "import platform; print(platform.machine())"
+ 2881  conda python3 -c "import platform; print(platform.machine())"
+ 2882  python3 -c "import platform; print(platform.machine())"
+ 2883  pip3 uninstall tensorflow
+ 2884  pip3 install tensorflow-macos
+ 2885  pip3 install tensorflow-metal
+ 2886  python3 -c "import tensorflow as tf; print(tf.__version__); print(tf.config.list_physical_devices())"
+ 2887  python3 -c "import tensorflow-metal as tf; print(tf.__version__); print(tf.config.list_physical_devices())"
+ 2888  conda install -c conda-forge tensorflow
+ 2889  conda install pyhton=3.9 tensorflow
+ 2890  python --version
+ 2891  vim .zshrc
+ 2892  cd ..
+ 2893  c d..
+ 2894  cd ..
+ 2895  ls
+ 2896  cd ..
+ 2897  c d..
+ 2898  cd ..
+ 2899  ls
+ 2900  cd opt/anaconda3/bin/
+ 2901  ls
+ 2902  source .zshrc
+ 2903  python --version
+ 2904  source
+ 2905  cd ..
+ 2906  exit
+ 2907  python --version
+ 2908  vim .zshrc
+ 2909  source .zshrc
+ 2910  exit
+ 2911  conda activate base
+ 2912  pip install tensorflow-macos
+ 2913  pip install tensorflow
+ 2914  conda install -c conda-forge tensorflow
+ 2915  python -c "import tensorflow as tf; print(tf.__version__)"
+ 2916  conda install python=3.10
+ 2917  conda install -c conda-forge tensorflow
+ 2918  python -c "import tensorflow as tf; print(tf.__version__)"
+ 2919  conda activate base
+ 2920  python -c "import platform; print(platform.machine())"
+ 2921  pip uninstall tensorflow
+ 2922  pip install tensorflow-macos
+ 2923  python -m pip install tensorflow-macos
+ 2924  python -m pip install tensorflow-macos -i https://pypi.tuna.tsinghua.edu.cn/simple
+ 2925  pip install tensorflow-metal
+ 2926  ls
+ 2927  cd ..
+ 2928  c..
+ 2929  ls
+ 2930  cd lib
+ 2931  ls
+ 2932  python --version
+ 2933  cd python 3.10
+ 2934  cd python3.10
+ 2935  ls
+ 2936  ls -la
+ 2937  cd ..
+ 2938  ls
+ 2939  cd ..
+ 2940  ls
+ 2941  cd /Users/fepriyadi/Library/Python/3.9/lib/python/site-packages/tensorflow
+ 2942  cd /Users/fepriyadi/Library
+ 2943  cd Python
+ 2944  ls
+ 2945  cd 3.9
+ 2946  ls
+ 2947  cd bin
+ 2948  cd ..
+ 2949  cd lib
+ 2950  ls
+ 2951  cd python
+ 2952  ls
+ 2953  cd site-packages/tensorflow
+ 2954  cd site-packages/tensorflow-metal
+ 2955  cd site-packages/tensorflow_metal-1.0.0.dist-info
+ 2956  ls
+ 2957  cd ..
+ 2958  cd..
+ 2959  cd ..
+ 2960  ls
+ 2961  ls -la
+ 2962  cd fepriyadi
+ 2963  ls -la
+ 2964  cd .conda
+ 2965  ls
+ 2966  cd tos
+ 2967  ls
+ 2968  cd ..
+ 2969  find ~/ -type f -path "*/site-packages/tensorflow/__init__.py" 2>/dev/null
+ 2970  find ~/ -type f -path "*/__init__.py" 2>/dev/null
+ 2971  cd ~/opt
+ 2972  cd ..
+ 2973  cd fepriyadi
+ 2974  cd opt/
+ 2975  cd ..
+ 2976  c d..
+ 2977  cd ..
+ 2978  cd opt/anaconda3/bin/
+ 2979  find . -type f -name "__init__.py" | grep "tensorflow"
+ 2980  cd ..
+ 2981  find . -type f -name "__init__.py" | grep "tensorflow"
+ 2982  conda activate base
+ 2983  pip install tensorflow-datasets
+ 2984  pip install tfds-nightly
+ 2985  pip install tfds-nightly i https://pypi.tuna.tsinghua.edu.cn/simple
+ 2986  conda activate base
+ 2987  pip install nltk
+ 2988  pip install Sastrawi
+ 2989  conda activate base
+ 2990  pip install gensim
+ 2991  conda activate base
+ 2992  pip install google-play-scraper
+ 2993  pip install wordcloud
+ 2994  conda activate base
+ 2995  pip install googlemaps-scraper
+ 2996  pip install git+https://github.com/omkarcloud/google-maps-scraper.git
+ 2997  pip install sentence-transformers faiss-cpu
+ 2998  conda activate base
+ 2999  pip install tf-keras
+ 3000  pip uninstall tf-keras
+ 3001  conda activate base
+ 3002  which python3 python
+ 3003  pip install wordcloud show tensorflow
+ 3004  pip uninstall keras
+ 3005  pip uninstall tensorflow
+ 3006  pip uninstall tensorflow-macos
+ 3007  pip uninstall tensorflow
+ 3008  pip show tensorflow-macos
+ 3009  pip install tensorflow
+ 3010  pip uninstall tensorflow
+ 3011  pip install tensorflow==2.16.2
+ 3012  pip uninstall protobuf
+ 3013  pip install protobuf==4.21.6
+ 3014  pip uninstall keras -y
+ 3015  pip install keras==3.11.2
+ 3016  conda activate base
+ 3017  conda install -c apple tensorflow-deps
+ 3018  python setup.py build_ext
+ 3019  python /opt/anaconda3/bin/python/setup.py build_ext
+ 3020  python ~/opt/anaconda3/bin/python/setup.py build_ext
+ 3021  conda install pandas --force-reinstall
+ 3022  which python
+ 3023  conda activate base
+ 3024  conda remove pandas -y
+ 3025  conda clean all
+ 3026  conda clean --all
+ 3027  conda install pandas
+ 3028  pip install nltk
+ 3029  which notebook
+ 3030  notebook --version
+ 3031  pip install notebook
+ 3032  pip install notebook -i https://pypi.tuna.tsinghua.edu.cn/simple
+ 3033  pip install --no-cache-dir pandas
+ 3034  pip install tensorflow
+ 3035  pip seaborn
+ 3036  pip install seaborn
+ 3037  pip install protobuf
+ 3038  pip show tensorflow
+ 3039  pip show protobuf
+ 3040  pip install --upgrade --force-reinstall protobuf==4.25.3
+ 3041  python -c "from google.protobuf import message; import tensorflow as tf; print('OK:', tf.__version__)"
+ 3042  conda activate base
+ 3043  pip install imblearn
+ 3044  git init
+ 3045  cd .git
+ 3046  ls
+ 3047  ls -la
+ 3048  cd ..
+ 3049  ls -la
+ 3050  cd .git
+ 3051  ls -la
+ 3052  touch .gitignore
+ 3053  git add .gitignore
+ 3054  cd ..
+ 3055  touch .gitignore
+ 3056  git add .gitignore
+ 3057  git commit -m "Add .gitignore for Python + Jupyter + CSV files"
+ 3058  git branch -M main
+ 3059  git remote add origin https://github.com/fepriyadi/dicoding-ai-ml.git
+ 3060  git push -u origin main
+ 3061  git add .gitignore
+ 3062  git commit -m "Add .gitignore for Python + Jupyter + CSV files"
+ 3063  git push -u origin main
+ 3064  git add .
+ 3065  git status
+ 3066  git commit -m "Add project files (excluding CSVs)"
+ 3067  git push -u origin main
+ 3068  conda activate base
+ 3069  pip install nltk
+ 3070  pip install stanza
+ 3071  pip install rapidfuzz
+ 3072  conda activate base
+ 3073  cd ml\ intermediate\ course
+ 3074  conda activate base
+ 3075  pipreqs
+ 3076  pip reqs
+ 3077  pip freeze > requirements.txt
+ 3078  pip install pipreqs
+ 3079  pipreqs --force
+ 3080  pipreqs --print
+ 3081  pipreqs --scan-notebooks
+ 3082  cd sentiment
+ 3083  pipreqs
+ 3084  pipreqs --force
+ 3085  pipreqs --scan-notebooks
+ 3086  pipreqs --scan-notebooks --force
+ 3087  conda activate base
+ 3088  pip instlall sentence_transformers
+ 3089  pip install sentence_transformers
+ 3090  pip install tf-keras
+ 3091  pip keras show
+ 3092  keras show
+ 3093  pip show keras
+ 3094  pip show tf-keras
+ 3095  pip uninstall -y keras
+ 3096  pip show tensorflow
+ 3097  pip reinstall tensorflow==2.15.0
+ 3098  pip unistall tensorflow install tensorflow==2.15.0
+ 3099  pip uninstall tensorflow install tensorflow==2.15.0
+ 3100  pip install tensorflow==2.15.0
+ 3101  pip install transformers==4.39.3
+ 3102  pip install transformers==5.0.0
+ 3103  pip install transformers==4.41.0
+ 3104  pip sentence_transformer show
+ 3105  pip show sentence_transformer 
+ 3106  pip show sentence-transformers
+ 3107  pip uninstall tf-keras
+ 3108  pip show tensorflow
+ 3109  pip show transformers
+ 3110  pip show sentence-transformers
+ 3111  pip keras show
+ 3112  pip install keras==2.15.0
+ 3113  pip keras show
+ 3114  pip tf-keras show
+ 3115  pip show keras
+ 3116  pip install tensorflow-cpu==2.16.1
+ 3117  pip install tf-keras==2.16.0 --no-dependencies
+ 3118  pip install datasets
+ 3119  pip install datasets==4.0.0
+ 3120  pip install transformers[torch]==0.21.0
+ 3121  pip install transformers[torch]
+ 3122  cd ..
+ 3123  conda activate base
+ 3124  pip install transformers[torch]
+ 3125  pip install accelerate -U
+ 3126  pip install "transformers[torch]" accelerate -U
+ 3127  pip torch show
+ 3128  pip show torch
+ 3129  pip show transformers
+ 3130  pip install torch tensorflow "transformers[tf]" --upgrade
+ 3131  conda create -n torch_env python=3.10.19
+ 3132  conda activate torch_env
+ 3133  pip install -r requirements.txt
+ 3134  pip install -r sentiment/requirements.txt
+ 3135  conda activate base
+ 3136  cd ml\ intermediate\ course
+ 3137  cd sentiment
+ 3138  conda activate base
+ 3139  pip show numpy
+ 3140  pipreqs --scan-notebooks --force
+ 3141  pip freeze > requirements.txt
+ 3142  pipreqs --scan-notebooks --force
+ 3143  pipreqs notebook.ipynb  --scan-notebooks --force
+ 3144  pipreqs
+ 3145  pipreqs --help
+ 3146  pipreqs notebook.ipynb  --scan-notebooks --force --use-local
+ 3147  pipreqs --use-local  --scan-notebooks --force
+ 3148  pip install -r sentiment/requirements.txt
+ 3149  pip who ml-dtypes
+ 3150  pip show ml-dtypes
+ 3151  pip install ml-dtypes==0.5.3
+ 3152  pip install -r sentiment/requirements.txt
+ 3153  pip show imblearn
+ 3154  pip show tensorflow
+ 3155  pip install pandas
+ 3156  pip install numpy
+ 3157  pip install imblearn
+ 3158  pip install imbalanced_learn
+ 3159  pip show nltk
+ 3160  pip install jupyter ipykernel
+ 3161  pip show pandas
+ 3162  pip install jupyter ipykernel
+ 3163  python -m ipykernel install
+ 3164  conda activate torch_env
+ 3165  pip install -U ipykernel jupyter && python -m ipykernel install --user --fepriyadi $(base $CONDA_PREFIX) --display-name "Python ($(base $CONDA_PREFIX))"
+ 3166  pip install -U ipykernel jupyter && python -m ipykernel install --user --name $(base $CONDA_PREFIX) --display-name "Python ($(base $CONDA_PREFIX))"
+ 3167  pip install -U ipykernel jupyter && python -m ipykernel install --user --name $(basename $CONDA_PREFIX) --display-name "Python ($(basename $CONDA_PREFIX))"
+ 3168  conda activate torch_env
+ 3169  conda deactivate torch_env
+ 3170  pip show transformers
+ 3171  conda info --envs
+ 3172  jupyter kernelspec list
+ 3173  conda env list
+ 3174  conda deactivate torch_env
+ 3175  conda env list
+ 3176  conda remove -n torch_env --all
+ 3177  exit
+ 3178  conda remove -n torch_env --all
+ 3179  pip install transformers
+ 3180  pip install keras
+ 3181  cd ..
+ 3182  jupyter kernelspec list
+ 3183  cd /Users/fepriyadi/Library/Jupyter/kernels/torch_env
+ 3184  ls
+ 3185  vim kernel.json
+ 3186  conda activate base
+ 3187  conda activate torch_env
+ 3188  conda info --envs
+ 3189  cd ml\ intermediate\ course
+ 3190  pip show keras
+ 3191  conda activate base
+ 3192  pip show keras
+ 3193  pip uninstall -y keras
+ 3194  pip show tensorflow
+ 3195  pip install keras==2.19.1
+ 3196  pip install keras==2.15.0
+ 3197  jupyter kernelspec remove torch_env
+ 3198  python --version
+ 3199  python -m venv torchenv
+ 3200  source torchenv/bin/activate
+ 3201  jupyter kernelspec list
+ 3202  conda env list
+ 3203  ls -d */ | grep -E "env|venv"
+ 3204  quit
+ 3205  exit
+ 3206  cd ml\ intermediate\ course
+ 3207  conda search "^python$"
+ 3208  conda env list
+ 3209  conda create -n sentiment_env python=3.10.19
+ 3210  conda env list
+ 3211  conda remove -n sentiment_env --all
+ 3212  conda create --name sentiment_env --clone base
+ 3213  conda activate sentiment_env
+ 3214  conda show jupyter
+ 3215  conda list
+ 3216  conda list | grep jupyter
+ 3217  conda list | grep pandas
+ 3218  python -m ipykernel install --user --name sentiment_env --display-name "Python (SentimentEnv)"
+ 3219  conda list envs
+ 3220  conda info --envs
+ 3221  conda deactivate
+ 3222  jupyter env list
+ 3223  jupyter kernelspec list
+ 3224  jupyter kernelspec remove sentiment_env
+ 3225  jupyter kernelspec list
+ 3226  jupyter kernelspec remove python3
+ 3227  jupyter kernelspec list
+ 3228  conda activate sentiment_env
+ 3229  conda list transformers
+ 3230  pip list
+ 3231  pip list transformers
+ 3232  pip list | grep transformers
+ 3233  conda list transformers
+ 3234  conda list tensorflow
+ 3235  conda list keras
+ 3236  pip list | grep keras
+ 3237  pip show tensorflow keras
+ 3238  conda list tensorflow
+ 3239  pip install tensorflow==2.15.0
+ 3240  pip uninstall -y onnx tensorflow-text tf-keras ml-dtypes
+ 3241  pip install ml-dtypes==0.2.0\npip install tensorflow-text==2.15.0
+ 3242  pip show tensorflow keras tensorflow-text ml-dtypes
+ 3243  pip show tensorflow keras tensorflow-text ml-dtypes onnx
+ 3244  pip check
+ 3245  pip install toml
+ 3246  pip check
+ 3247  pip install onnx==1.16.0
+ 3248  conda activate sentiment_env
+ 3249  pip check
+ 3250  pip install transformers==4.24.0
+ 3251  pip check
+ 3252  conda list transformers
+ 3253  pip install transformers==4.41.0
+ 3254  pip check
+ 3255  pip install protobuf==4.22
+ 3256  pip install protobuf==4.21.6
+ 3257  pip check
+ 3258  conda list tensorflow
+ 3259  pip install tensforflow==2.15.0
+ 3260  pip install tensforflow-metal==1.1.0
+ 3261  pip install tensorflow-metal==1.1.0
+ 3262  pip install tensorflow==2.15.0
+ 3263  python -c "import site, glob; [print(p) for s in site.getsitepackages() for p in glob.glob(s + '/keras*')]"
+ 3264  sudo rm -rf /opt/anaconda3/lib/python3.10/site-packages/keras\nsudo rm -rf /opt/anaconda3/lib/python3.10/site-packages/keras-2.15.0.dist-info
+ 3265  python -c "import site, glob; [print(p) for s in site.getsitepackages() for p in glob.glob(s + '/keras*')]"
+ 3266  pip show keras
+ 3267  pip show tensorflow
+ 3268  pip install keras=2.15.0
+ 3269  pip install keras==2.15.0
+ 3270  pip show keras
+ 3271  python -c "import site, glob; [print(p) for s in site.getsitepackages() for p in glob.glob(s + '/keras*')]"
+ 3272  sudo rm -rf /opt/anaconda3/lib/python3.10/site-packages/keras\nsudo rm -rf /opt/anaconda3/lib/python3.10/site-packages/keras-2.15.0.dist-info
+ 3273  pip show keras
+ 3274  conda activate sentiment_env
+ 3275  pip show keras
+ 3276  pip install keras==2.15.0
+ 3277  python -c "import site, glob; [print(p) for s in site.getsitepackages() for p in glob.glob(s + '/keras*')]"
+ 3278  which python → /opt/anaconda3/envs/sentiment_env/bin/python
+ 3279  which python
+ 3280  alias python
+ 3281  unalias python
+ 3282  which python
+ 3283  which pip
+ 3284  unalias pip
+ 3285  which pip
+ 3286  pip show keras
+ 3287  python -c "import site, glob; [print(p) for s in site.getsitepackages() for p in glob.glob(s + '/keras*')]"
+ 3288  pip show keras
+ 3289  python -m pip uninstall -y tensorflow-macos tensorflow-metal keras\npython -m pip install tensorflow-macos==2.15.0 tensorflow-metal==1.1.0
+ 3290  pip show tensorflow
+ 3291  pip install tensorflow==2.15.0
+ 3292  pip install tensorflow-text==2.15.0
+ 3293  pip check
+ 3294  pip install toml
+ 3295  pip install ml-dtypes==0.5.0
+ 3296  pip install ml-dtypes==0.2.0
+ 3297  pip install transformers==4.41.0
+ 3298  pip check
+ 3299  deactivate
+ 3300  conda deactivate
+ 3301  conda activate base
+ 3302  which python
+ 3303  conda deactivate
+ 3304  conda activate sentiment_env
+ 3305  which python
+ 3306  which pip
+ 3307  pip show tensorflow
+ 3308  pip check
+ 3309  pip install tensorflow==2.19.0
+ 3310  pip show keras
+ 3311  pip install keras==2.16 --no-depedencies
+ 3312  pip install keras==2.16 --no-deps
+ 3313  python -m pip uninstall -y keras keras-nightly keras-utils tf-keras
+ 3314  python -m pip install keras==2.15.0 --no-deps
+ 3315  pip check
+ 3316  python -m pip uninstall -y tensorflow tensorflow-macos tensorflow-intel tensorflow-metal keras keras-nightly tf-keras keras-preprocessing keras-utils
+ 3317  python -m pip show tensorflow tensorflow-macos
+ 3318  python -m pip install tensorflow-macos==2.15.0 tensorflow-metal==1.1.0 keras==2.15.0 ml-dtypes==0.2.0 --no-deps
+ 3319  python -m pip list | grep tensorflow\n
+ 3320  python -m pip install tensorflow-text==2.15.0 --no-deps
+ 3321  python -m pip uninstall -y tensorflow-text
+ 3322  pip check
+ 3323  pip install tensorboard==2.15.0
+ 3324  pip install protobuf==4.21.6 -no-deps
+ 3325  pip install protobuf==4.21.6 --no-deps
+ 3326  pip check
+ 3327  pip show keras
+ 3328  conda list keras
+ 3329  conda install keras
+ 3330  deactivate
+ 3331  conda deactivate
+ 3332  conda activate base
+ 3333  cd ml\ intermediate\ course
+ 3334  which pip
+ 3335  which python
+ 3336  pip install cv2
+ 3337  pip install colab
+ 3338  pip install kaggle
+ 3339  export KAGGLE_CONFIG_DIR=.
+ 3340  kaggle --versin
+ 3341  kaggle --version
+ 3342  chmod 600 ./kaggle.json
+ 3343  kaggle --version
+ 3344  pip install opencv-python
+ 3345  pip check
+ 3346  conda deactivate
+ 3347  conda create --name deep_learning_env --clone base
+ 3348  conda activate deep_learning_env
+ 3349  uninstall -y numpy opencv-python opencv-contrib-python opencv-python-headless
+ 3350  pip uninstall -y numpy opencv-python opencv-contrib-python opencv-python-headless
+ 3351  pip install --upgrade pip setuptools wheel
+ 3352  which python
+ 3353  alias python
+ 3354  unalias python
+ 3355  which python
+ 3356  which pip
+ 3357  unalias pip
+ 3358  which pip
+ 3359  pip uninstall -y numpy opencv-python opencv-contrib-python opencv-python-headless
+ 3360  pip install --upgrade pip setuptools wheel
+ 3361  pip install numpy==1.26.4
+ 3362  pip install opencv-python-headless==4.10.0.84
+ 3363  --upgrade pip
+ 3364  pip --upgrade pip
+ 3365  pip install numpy==1.26.4 opencv-python-headless==4.10.0.84
+ 3366  pip show cv2
+ 3367  find ~/.cache/pip -name "opencv*" -delete\nfind ~/.cache/pip -name "numpy*" -delete
+ 3368  pip show cv2
+ 3369  pip install numpy opencv-python-headless --force-reinstall
+ 3370  pip install numpy==2.0.0
+ 3371  pip check
+ 3372  python -c "import platform; print(platform.machine())"
+ 3373  pip install numpy==1.2.21.1
+ 3374  pip install numpy==1.26.4
+ 3375  pip show pandas
+ 3376  pip check
+ 3377  pip install --force-reinstall opencv-python-headless==4.10.0.84
+ 3378  pip install numpy==1.26.4
+ 3379  pip install numpy==1.26.4 opencv-python-headless==4.12.0.88 --no-deps --force-reinstall
+ 3380  pip show skimage
+ 3381  pip install skimage
+ 3382  pip install scikit-image
+ 3383  pip show keras
+ 3384  pip show tensorflow
+ 3385  python -c "import tensorflow as tf; print(tf.__version__); print(tf.__file__)"
+ 3386  pip install tensorflow-macos==2.15.0 tensorflow-metal==1.1.0 keras==2.15.0 ml-dtypes==0.2.0 --no-deps
+ 3387  which python
+ 3388  which pip
+ 3389  python - <<'PY'\nimport tensorflow as tf\nimport inspect, os\nprint("TF version:", tf.__version__)\nprint("TF location:", os.path.dirname(inspect.getfile(tf)))\nprint("Compat exists:", hasattr(tf, "compat"))\n\n
+ 3390  python - <<'PY'\nimport tensorflow as tf\nimport inspect, os\nprint("TF version:", tf.__version__)\nprint("TF location:", os.path.dirname(inspect.getfile(tf)))\nprint("Compat exists:", hasattr(tf, "compat"))\nPY
+ 3391  conda activate deep_learning_env
+ 3392  python - <<'PY'\nimport tensorflow as tf\nimport inspect, os\nprint("TF version:", tf.__version__)\nprint("TF location:", os.path.dirname(inspect.getfile(tf)))\nprint("Compat exists:", hasattr(tf, "compat"))\nPY
+ 3393  sudo rm -rf /opt/anaconda3/lib/python/site-packages/tensorflow*
+ 3394  sudo rm -rf ~/opt/anaconda3/lib/python/site-packages/tensorflow*
+ 3395  cd ~/opt/anaconda3/lib
+ 3396  cd ~/opt/anaconda3/
+ 3397  cd ~/opt/anaconda3
+ 3398  cd /opt/anaconda3
+ 3399  ls
+ 3400  cd lib
+ 3401  ls
+ 3402  cd python3.10
+ 3403  ls
+ 3404  cd site-packages
+ 3405  ls
+ 3406  sudo rm -rf /opt/anaconda3/lib/python3.10/site-packages/tensorflow*
+ 3407  cd /opt/anaconda3/lib/python3.10/site-packages/tensorflow*
+ 3408  conda activate deep_learning_env
+ 3409  pip show tensorflow
+ 3410  pip show keras
+ 3411  pip install --force-reinstall --no-cache-dir tensorflow-macos==2.15.0 tensorflow-metal==1.1.0 keras==2.15.0
+ 3412  which python
+ 3413  unalias python
+ 3414  which python
+ 3415  pip show tensorflow
+ 3416  sudo rm -rf /opt/anaconda3/lib/python3.10/site-packages/tensorflow*
+ 3417  cd /opt/anaconda3/lib/python3.10/site-packages/tensorflow*
+ 3418  which python
+ 3419  which pip
+ 3420  unalias pip
+ 3421  which pip
+ 3422  pip install --force-reinstall --no-cache-dir tensorflow-macos==2.15.0 tensorflow-metal==1.1.0 keras==2.15.0 --no-deps
+ 3423  cat ~/.kaggle/kaggle.json
+ 3424  cat /.kaggle/kaggle.json
+ 3425  cd ml\ intermediate\ course
+ 3426  export KAGGLE_CONFIG_DIR=.
+ 3427  echo KAGGLE_CONFIG_DIR
+ 3428  echo $KAGGLE_CONFIG_DIR
+ 3429  export KAGGLE_CONFIG_DIR=/
+ 3430  echo $KAGGLE_CONFIG_DIR
+ 3431  export KAGGLE_CONFIG_DIR=$(pwd)
+ 3432  echo $KAGGLE_CONFIG_DIR
+ 3433  echo 'export KAGGLE_CONFIG_DIR=$(pwd)' >> ~/.zshrc
+ 3434  source ~/.zshrc
+ 3435  echo $KAGGLE_CONFIG_DIR
+ 3436  conda activate deep_learning_env
+ 3437  echo $KAGGLE_CONFIG_DIR
+ 3438* vim ~/.zshrc
+ 3439  chmod 600 kaggle.json
+ 3440  kaggle datasets list -s "titanic"
+ 3441  kaggle datasets download -d tolgadincer/labeled-chest-xray-images
+ 3442  unzip labeled-chest-xray-images.zip
+ 3443  pipreqs > requirements.txt
+ 3444  cd rnd
+ 3445  pipreqs .
+ 3446  pip freeze > requirement.txt
+ 3447  history < terminal_history.txt
